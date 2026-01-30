@@ -1,0 +1,3432 @@
+[
+  {
+    "id": 0,
+    "season": 1,
+    "episode": 1,
+    "title": "Pilot",
+    "about": "The premiere episode introduces the boss and staff of the Dunder-Mifflin Paper Company in Scranton, Pennsylvania in a documentary about the workplace.",
+    "rating": 7.5,
+    "votes": 4936,
+    "duration": 23,
+    "date": " 24 March 2005",
+    "moods": [
+      "workplace"
+    ],
+    "mood_sources": {
+      "workplace": "keyword"
+    }
+  },
+  {
+    "id": 1,
+    "season": 1,
+    "episode": 2,
+    "title": "Diversity Day",
+    "about": "Michael's off color remark puts a sensitivity trainer in the office for a presentation, which prompts Michael to create his own.",
+    "rating": 8.3,
+    "votes": 4801,
+    "duration": 23,
+    "date": " 29 March 2005",
+    "moods": [
+      "workplace"
+    ],
+    "mood_sources": {
+      "workplace": "keyword"
+    }
+  },
+  {
+    "id": 2,
+    "season": 1,
+    "episode": 3,
+    "title": "Health Care",
+    "about": "Michael leaves Dwight in charge of picking the new healthcare plan for the staff, with disastrous results ahead.",
+    "rating": 7.8,
+    "votes": 4024,
+    "duration": 22,
+    "date": " 5 April 2005",
+    "moods": [
+      "wholesome"
+    ],
+    "mood_sources": {
+      "wholesome": "keyword"
+    }
+  },
+  {
+    "id": 3,
+    "season": 1,
+    "episode": 4,
+    "title": "The Alliance",
+    "about": "Just for a laugh, Jim agrees to an alliance with Dwight regarding the downsizing rumors.",
+    "rating": 8.1,
+    "votes": 3915,
+    "duration": 23,
+    "date": " 12 April 2005",
+    "moods": [
+      "workplace"
+    ],
+    "mood_sources": {
+      "workplace": "default"
+    }
+  },
+  {
+    "id": 4,
+    "season": 1,
+    "episode": 5,
+    "title": "Basketball",
+    "about": "Michael and his staff challenge the warehouse workers to a basketball game with a bet looming over both parties.",
+    "rating": 8.4,
+    "votes": 4294,
+    "duration": 23,
+    "date": " 19 April 2005",
+    "moods": [
+      "workplace"
+    ],
+    "mood_sources": {
+      "workplace": "default"
+    }
+  },
+  {
+    "id": 5,
+    "season": 1,
+    "episode": 6,
+    "title": "Hot Girl",
+    "about": "Michael is just one of the many male staff who start vying for the attention of an attractive saleswoman in the office.",
+    "rating": 7.7,
+    "votes": 3854,
+    "duration": 23,
+    "date": " 26 April 2005",
+    "moods": [
+      "workplace"
+    ],
+    "mood_sources": {
+      "workplace": "keyword"
+    }
+  },
+  {
+    "id": 6,
+    "season": 2,
+    "episode": 1,
+    "title": "The Dundies",
+    "about": "Very much unlike his staff, an overeager Michael can't wait for this year's annual Dundies awards.",
+    "rating": 8.7,
+    "votes": 4315,
+    "duration": 21,
+    "date": " 20 September 2005",
+    "moods": [
+      "workplace"
+    ],
+    "mood_sources": {
+      "workplace": "default"
+    }
+  },
+  {
+    "id": 7,
+    "season": 2,
+    "episode": 2,
+    "title": "Sexual Harassment",
+    "about": "The office reviews its sexual harassment policy in light of explicit e-mails.",
+    "rating": 8.2,
+    "votes": 3665,
+    "duration": 22,
+    "date": " 27 September 2005",
+    "moods": [
+      "workplace"
+    ],
+    "mood_sources": {
+      "workplace": "keyword"
+    }
+  },
+  {
+    "id": 8,
+    "season": 2,
+    "episode": 3,
+    "title": "Office Olympics",
+    "about": "Ready to finalize his deal for a new condo, Michael is away with Dwight while Jim rallies the staff together for office games.",
+    "rating": 8.4,
+    "votes": 3665,
+    "duration": 22,
+    "date": " 4 October 2005",
+    "moods": [
+      "comfort",
+      "wholesome",
+      "workplace"
+    ],
+    "mood_sources": {
+      "comfort": "keyword",
+      "wholesome": "keyword",
+      "workplace": "keyword"
+    }
+  },
+  {
+    "id": 9,
+    "season": 2,
+    "episode": 4,
+    "title": "The Fire",
+    "about": "A fire in the kitchen relegates the staff to the parking lot as help is on its way.",
+    "rating": 8.4,
+    "votes": 3607,
+    "duration": 22,
+    "date": " 11 October 2005",
+    "moods": [
+      "chaos",
+      "wholesome"
+    ],
+    "mood_sources": {
+      "chaos": "keyword",
+      "wholesome": "keyword"
+    }
+  },
+  {
+    "id": 10,
+    "season": 2,
+    "episode": 5,
+    "title": "Halloween",
+    "about": "Michael is pressured by corporate to fire someone, which puts a damper on the office Halloween party.",
+    "rating": 8.1,
+    "votes": 3392,
+    "duration": 30,
+    "date": " 18 October 2005",
+    "moods": [
+      "chaos",
+      "comfort",
+      "workplace"
+    ],
+    "mood_sources": {
+      "chaos": "keyword",
+      "comfort": "keyword",
+      "workplace": "keyword"
+    }
+  },
+  {
+    "id": 11,
+    "season": 2,
+    "episode": 6,
+    "title": "The Fight",
+    "about": "Jim rallies the staff together to witness a showdown between Michael and Dwight at Dwight's martial arts school.",
+    "rating": 8.1,
+    "votes": 3388,
+    "duration": 22,
+    "date": " 1 November 2005",
+    "moods": [
+      "comfort",
+      "wholesome"
+    ],
+    "mood_sources": {
+      "comfort": "keyword",
+      "wholesome": "keyword"
+    }
+  },
+  {
+    "id": 12,
+    "season": 2,
+    "episode": 7,
+    "title": "The Client",
+    "about": "With Michael and Jan Levinson-Gould away from the office to land a new client, the staff discovers an unproduced screenplay in Michael's office.",
+    "rating": 8.6,
+    "votes": 3533,
+    "duration": 22,
+    "date": " 8 November 2005",
+    "moods": [
+      "workplace"
+    ],
+    "mood_sources": {
+      "workplace": "keyword"
+    }
+  },
+  {
+    "id": 13,
+    "season": 2,
+    "episode": 8,
+    "title": "Performance Review",
+    "about": "Instead of talking to his employees about their work, Michael uses their annual review time to gather feedback on his \"relationship\" with Jan.",
+    "rating": 8.2,
+    "votes": 3216,
+    "duration": 22,
+    "date": " 15 November 2005",
+    "moods": [
+      "workplace"
+    ],
+    "mood_sources": {
+      "workplace": "keyword"
+    }
+  },
+  {
+    "id": 14,
+    "season": 2,
+    "episode": 9,
+    "title": "E-Mail Surveillance",
+    "about": "Michael decides to set up e-mail surveillance for all company e-mail, and discovers that Jim has invited everyone over for a barbeque except him.",
+    "rating": 8.4,
+    "votes": 3338,
+    "duration": 23,
+    "date": " 22 November 2005",
+    "moods": [
+      "workplace"
+    ],
+    "mood_sources": {
+      "workplace": "default"
+    }
+  },
+  {
+    "id": 15,
+    "season": 2,
+    "episode": 10,
+    "title": "Christmas Party",
+    "about": "Seeing the party is headed for disastrous boredom, Michael breaks corporate policy to buy alcohol for the staff.",
+    "rating": 8.9,
+    "votes": 3663,
+    "duration": 22,
+    "date": " 6 December 2005",
+    "moods": [
+      "comfort"
+    ],
+    "mood_sources": {
+      "comfort": "keyword"
+    }
+  },
+  {
+    "id": 16,
+    "season": 2,
+    "episode": 11,
+    "title": "Booze Cruise",
+    "about": "The Dunder Mifflin staff go on a mandatory \"booze cruise\" to hear Michael give a motivational talk.",
+    "rating": 8.6,
+    "votes": 3536,
+    "duration": 22,
+    "date": " 5 January 2006",
+    "moods": [
+      "workplace"
+    ],
+    "mood_sources": {
+      "workplace": "default"
+    }
+  },
+  {
+    "id": 17,
+    "season": 2,
+    "episode": 12,
+    "title": "The Injury",
+    "about": "Michael's \"injury\" from a George Foreman Grill distracts the staff from Dwight, the one with the real injury.",
+    "rating": 9.1,
+    "votes": 4314,
+    "duration": 22,
+    "date": " 12 January 2006",
+    "moods": [
+      "chaos"
+    ],
+    "mood_sources": {
+      "chaos": "keyword"
+    }
+  },
+  {
+    "id": 18,
+    "season": 2,
+    "episode": 13,
+    "title": "The Secret",
+    "about": "Jim fears the secret he told to Michael, in confidence, will be revealed to the staff.",
+    "rating": 8.3,
+    "votes": 3142,
+    "duration": 22,
+    "date": " 19 January 2006",
+    "moods": [
+      "workplace"
+    ],
+    "mood_sources": {
+      "workplace": "default"
+    }
+  },
+  {
+    "id": 19,
+    "season": 2,
+    "episode": 14,
+    "title": "The Carpet",
+    "about": "Michael's office becomes the victim of an odorous prank which subjects the office to his punishment.",
+    "rating": 7.8,
+    "votes": 3118,
+    "duration": 22,
+    "date": " 26 January 2006",
+    "moods": [
+      "workplace"
+    ],
+    "mood_sources": {
+      "workplace": "keyword"
+    }
+  },
+  {
+    "id": 20,
+    "season": 2,
+    "episode": 15,
+    "title": "Boys and Girls",
+    "about": "Jan comes into the Scranton Branch to give all the female employees a group seminar on women in the workplace. Upset that he is not allowed in on the proceedings, Michael takes all the men ...\n                    See full summaryÃƒâ€šÃ‚Â Ãƒâ€šÃ‚Â»",
+    "rating": 8.2,
+    "votes": 3091,
+    "duration": 22,
+    "date": " 2 February 2006",
+    "moods": [
+      "workplace"
+    ],
+    "mood_sources": {
+      "workplace": "keyword"
+    }
+  },
+  {
+    "id": 21,
+    "season": 2,
+    "episode": 16,
+    "title": "Valentine's Day",
+    "about": "When Michael visits Dunder Mifflin corporate headquarters in New York on Valentine's Day, he and Jan are both in for a surprise. Meanwhile, back in Scranton, the office staff celebrates Valentine's Day grade school style.",
+    "rating": 8.3,
+    "votes": 3104,
+    "duration": 22,
+    "date": " 9 February 2006",
+    "moods": [
+      "comfort",
+      "romantic",
+      "workplace"
+    ],
+    "mood_sources": {
+      "comfort": "keyword",
+      "romantic": "keyword",
+      "workplace": "keyword"
+    }
+  },
+  {
+    "id": 22,
+    "season": 2,
+    "episode": 17,
+    "title": "Dwight's Speech",
+    "about": "Michael coaches pompous Dwight on the finer art of public speaking after being named as Salesman of the Year.",
+    "rating": 8.5,
+    "votes": 3283,
+    "duration": 22,
+    "date": " 2 March 2006",
+    "moods": [
+      "workplace"
+    ],
+    "mood_sources": {
+      "workplace": "keyword"
+    }
+  },
+  {
+    "id": 23,
+    "season": 2,
+    "episode": 18,
+    "title": "Take Your Daughter to Work Day",
+    "about": "A routine office day is changed when children come to Dunder Mifflin for \"Take Your Daughter to Work Day.\" Michael is surprised when he strikes up a friendship with the five-year old ...\n                    See full summaryÃƒâ€šÃ‚Â Ãƒâ€šÃ‚Â»",
+    "rating": 8.3,
+    "votes": 3212,
+    "duration": 21,
+    "date": " 16 March 2006",
+    "moods": [
+      "comfort",
+      "workplace"
+    ],
+    "mood_sources": {
+      "comfort": "keyword",
+      "workplace": "keyword"
+    }
+  },
+  {
+    "id": 24,
+    "season": 2,
+    "episode": 19,
+    "title": "Michael's Birthday",
+    "about": "In celebration of his birthday, Michael makes a mandatory invite of the staff during the workday to go ice skating.",
+    "rating": 8.1,
+    "votes": 3094,
+    "duration": 22,
+    "date": " 30 March 2006",
+    "moods": [
+      "workplace"
+    ],
+    "mood_sources": {
+      "workplace": "default"
+    }
+  },
+  {
+    "id": 25,
+    "season": 2,
+    "episode": 20,
+    "title": "Drug Testing",
+    "about": "Dwight plays the role of Volunteer Sheriff after finding half a joint in the Dunder Mifflin parking lot leading to an investigation. Pam gives Jim a play challenge which he tries to complete.",
+    "rating": 8.4,
+    "votes": 3172,
+    "duration": 22,
+    "date": " 27 April 2006",
+    "moods": [
+      "workplace"
+    ],
+    "mood_sources": {
+      "workplace": "default"
+    }
+  },
+  {
+    "id": 26,
+    "season": 2,
+    "episode": 21,
+    "title": "Conflict Resolution",
+    "about": "When Michael takes over conflict resolution duties from HR, chaos ensues at Dunder Mifflin.",
+    "rating": 8.7,
+    "votes": 3253,
+    "duration": 22,
+    "date": " 4 May 2006",
+    "moods": [
+      "workplace"
+    ],
+    "mood_sources": {
+      "workplace": "keyword"
+    }
+  },
+  {
+    "id": 27,
+    "season": 2,
+    "episode": 22,
+    "title": "Casino Night",
+    "about": "The Dunder Mifflin crew holds a casino party at the warehouse and Michael has two dates.",
+    "rating": 9.4,
+    "votes": 4765,
+    "duration": 29,
+    "date": " 11 May 2006",
+    "moods": [
+      "comfort",
+      "romantic"
+    ],
+    "mood_sources": {
+      "comfort": "keyword",
+      "romantic": "keyword"
+    }
+  },
+  {
+    "id": 28,
+    "season": 3,
+    "episode": 1,
+    "title": "Gay Witch Hunt",
+    "about": "Michael apologizes to Oscar, after he finds out he's gay, for calling him a homosexual slur--but his apology outs Oscar to the entire office. And Jim decides to take a promotion at the Stamford office.",
+    "rating": 9.0,
+    "votes": 4133,
+    "duration": 23,
+    "date": " 21 September 2006",
+    "moods": [
+      "workplace"
+    ],
+    "mood_sources": {
+      "workplace": "keyword"
+    }
+  },
+  {
+    "id": 29,
+    "season": 3,
+    "episode": 2,
+    "title": "The Convention",
+    "about": "Michael and Dwight go to a convention in Philadelphia and run into Jim, and Michael becomes jealous of Jim's relationship with his new boss. Meanwhile, Pam gets ready for her first date since her engagement.",
+    "rating": 8.2,
+    "votes": 3027,
+    "duration": 22,
+    "date": " 28 September 2006",
+    "moods": [
+      "romantic",
+      "workplace"
+    ],
+    "mood_sources": {
+      "romantic": "keyword",
+      "workplace": "keyword"
+    }
+  },
+  {
+    "id": 30,
+    "season": 3,
+    "episode": 3,
+    "title": "The Coup",
+    "about": "Michael is in trouble once again as Jan busts him for declaring it's \"Movie Monday\" where everyone watches a movie and neglects work. Angela pushes Dwight to make a move on Michael's job while Pam and Jim find creative ways to waste time.",
+    "rating": 8.5,
+    "votes": 3175,
+    "duration": 22,
+    "date": " 5 October 2006",
+    "moods": [
+      "workplace"
+    ],
+    "mood_sources": {
+      "workplace": "default"
+    }
+  },
+  {
+    "id": 31,
+    "season": 3,
+    "episode": 4,
+    "title": "Grief Counseling",
+    "about": "Michael takes on the role of office grief counselor when he learns that his old boss has died.",
+    "rating": 8.0,
+    "votes": 3049,
+    "duration": 22,
+    "date": " 12 October 2006",
+    "moods": [
+      "workplace"
+    ],
+    "mood_sources": {
+      "workplace": "keyword"
+    }
+  },
+  {
+    "id": 32,
+    "season": 3,
+    "episode": 5,
+    "title": "Initiation",
+    "about": "Dwight takes former temp Ryan to his beet farm to initiate Ryan to his new job at Dunder Mifflin.",
+    "rating": 8.1,
+    "votes": 2976,
+    "duration": 22,
+    "date": " 19 October 2006",
+    "moods": [
+      "workplace"
+    ],
+    "mood_sources": {
+      "workplace": "default"
+    }
+  },
+  {
+    "id": 33,
+    "season": 3,
+    "episode": 6,
+    "title": "Diwali",
+    "about": "Michael encourages the entire Scranton branch to support Kelly and attend a local celebration of Diwali, the Hindu Festival of Lights. Meanwhile, Andy convinces Jim to turn a late night of work into a drinking game.",
+    "rating": 7.9,
+    "votes": 3082,
+    "duration": 22,
+    "date": " 2 November 2006",
+    "moods": [
+      "comfort",
+      "wholesome",
+      "workplace"
+    ],
+    "mood_sources": {
+      "comfort": "keyword",
+      "wholesome": "keyword",
+      "workplace": "keyword"
+    }
+  },
+  {
+    "id": 34,
+    "season": 3,
+    "episode": 7,
+    "title": "Branch Closing",
+    "about": "When Jan tells Michael that the Scranton Branch will be shutting down, Michael strives to keep his staff's spirits up. Meanwhile, everyone privately begins to envision how their lives will change in the aftermath.",
+    "rating": 8.6,
+    "votes": 3021,
+    "duration": 31,
+    "date": " 9 November 2006",
+    "moods": [
+      "workplace"
+    ],
+    "mood_sources": {
+      "workplace": "keyword"
+    }
+  },
+  {
+    "id": 35,
+    "season": 3,
+    "episode": 8,
+    "title": "The Merger",
+    "about": "Jan informs Michael that the Scanton branch of Dunder Mifflin will be merging with the Stamford Branch. Jim and Pam are reunited while the other employees of both branches must adjust to their new co-workers.",
+    "rating": 8.7,
+    "votes": 3166,
+    "duration": 30,
+    "date": " 16 November 2006",
+    "moods": [
+      "workplace"
+    ],
+    "mood_sources": {
+      "workplace": "keyword"
+    }
+  },
+  {
+    "id": 36,
+    "season": 3,
+    "episode": 9,
+    "title": "The Convict",
+    "about": "Michael learns that one of the new employees at Dunder Mifflin Scranton has a criminal record. Meanwhile, Jim helps Andy make a move on Pam.",
+    "rating": 8.3,
+    "votes": 3151,
+    "duration": 30,
+    "date": " 30 November 2006",
+    "moods": [
+      "wholesome",
+      "workplace"
+    ],
+    "mood_sources": {
+      "wholesome": "keyword",
+      "workplace": "keyword"
+    }
+  },
+  {
+    "id": 37,
+    "season": 3,
+    "episode": 10,
+    "title": "A Benihana Christmas",
+    "about": "Trouble among the members of the party planning committee results with Pam and Karen hosting a rival Christmas party, but Michael isn't interested in celebrating after being dumped by Carol.",
+    "rating": 8.8,
+    "votes": 3343,
+    "duration": 42,
+    "date": " 14 December 2006",
+    "moods": [
+      "christmas",
+      "comfort",
+      "workplace"
+    ],
+    "mood_sources": {
+      "christmas": "keyword",
+      "comfort": "keyword",
+      "workplace": "keyword"
+    }
+  },
+  {
+    "id": 38,
+    "season": 3,
+    "episode": 11,
+    "title": "Back from Vacation",
+    "about": "Michael isn't supposed to let anyone know that he and Jan went on vacation together in Jamaica, but he accidentally circulates a compromising photo of them to the office via e-mail.",
+    "rating": 8.5,
+    "votes": 3001,
+    "duration": 21,
+    "date": " 4 January 2007",
+    "moods": [
+      "chaos",
+      "comfort",
+      "wholesome",
+      "workplace"
+    ],
+    "mood_sources": {
+      "chaos": "keyword",
+      "comfort": "keyword",
+      "wholesome": "keyword",
+      "workplace": "keyword"
+    }
+  },
+  {
+    "id": 39,
+    "season": 3,
+    "episode": 12,
+    "title": "Traveling Salesmen",
+    "about": "Dwight does a favor for Angela to keep her from getting in trouble. Andy finds out and uses it against him to get in tighter with Michael. Now Dwight must fess up, which will reveal his relationship with Angela, or risk getting fired.",
+    "rating": 8.6,
+    "votes": 3053,
+    "duration": 22,
+    "date": " 11 January 2007",
+    "moods": [
+      "chaos"
+    ],
+    "mood_sources": {
+      "chaos": "keyword"
+    }
+  },
+  {
+    "id": 40,
+    "season": 3,
+    "episode": 13,
+    "title": "The Return",
+    "about": "Andy does the impossible--he makes everyone in the office miss Dwight, who is forced to take a job at Staples. Meanwhile, Oscar comes back to the office and Michael predictably throws a stereotypical Mexican party to celebrate.",
+    "rating": 8.8,
+    "votes": 3211,
+    "duration": 28,
+    "date": " 18 January 2007",
+    "moods": [
+      "comfort",
+      "workplace"
+    ],
+    "mood_sources": {
+      "comfort": "keyword",
+      "workplace": "keyword"
+    }
+  },
+  {
+    "id": 41,
+    "season": 3,
+    "episode": 14,
+    "title": "Ben Franklin",
+    "about": "Michael asks Jim to get a male stripper for Phyllis's office bachelorette party, but he gets a Ben Franklin impersonator instead. Meanwhile, the men's bachelor party goes as planned until Michael becomes uncomfortable with the stripper.",
+    "rating": 8.1,
+    "votes": 2975,
+    "duration": 21,
+    "date": " 1 February 2007",
+    "moods": [
+      "comfort",
+      "cringe",
+      "workplace"
+    ],
+    "mood_sources": {
+      "comfort": "keyword",
+      "cringe": "keyword",
+      "workplace": "keyword"
+    }
+  },
+  {
+    "id": 42,
+    "season": 3,
+    "episode": 15,
+    "title": "Phyllis' Wedding",
+    "about": "Michael exaggerates the importance of his small role in Phyllis's wedding and makes an ass out of himself, and Pam notices that Phyllis stole all of her wedding ideas from her original wedding plans.",
+    "rating": 8.2,
+    "votes": 2995,
+    "duration": 21,
+    "date": " 8 February 2007",
+    "moods": [
+      "romantic"
+    ],
+    "mood_sources": {
+      "romantic": "keyword"
+    }
+  },
+  {
+    "id": 43,
+    "season": 3,
+    "episode": 16,
+    "title": "Business School",
+    "about": "Michael is a guest speaker for Ryan's business class, but they have a falling-out after Michael finds out that Ryan spoke negatively about Dunder-Mifflin. And back at the office, Dwight tries to kill a bat that he found in the ceiling.",
+    "rating": 8.9,
+    "votes": 3460,
+    "duration": 22,
+    "date": " 15 February 2007",
+    "moods": [
+      "workplace"
+    ],
+    "mood_sources": {
+      "workplace": "keyword"
+    }
+  },
+  {
+    "id": 44,
+    "season": 3,
+    "episode": 17,
+    "title": "Cocktails",
+    "about": "While Michael and Jan go to their first Dunder Mifflin outing as an official couple, the office workers left behind go out for happy hour. During happy hour, Roy finds out that Jim and Pam kissed at Casino Night.",
+    "rating": 8.5,
+    "votes": 2969,
+    "duration": 21,
+    "date": " 22 February 2007",
+    "moods": [
+      "romantic",
+      "workplace"
+    ],
+    "mood_sources": {
+      "romantic": "keyword",
+      "workplace": "keyword"
+    }
+  },
+  {
+    "id": 45,
+    "season": 3,
+    "episode": 18,
+    "title": "The Negotiation",
+    "about": "Dwight saves Jim from an attack by Roy, but Dwight won't allow Jim to thank him for it. Meanwhile, Darryl asks Michael for a pay raise, and Michael discovers that he is woefully underpaid--so Michael goes to headquarters to ask for one himself.",
+    "rating": 9.0,
+    "votes": 3368,
+    "duration": 30,
+    "date": " 5 April 2007",
+    "moods": [
+      "wholesome"
+    ],
+    "mood_sources": {
+      "wholesome": "keyword"
+    }
+  },
+  {
+    "id": 46,
+    "season": 3,
+    "episode": 19,
+    "title": "Safety Training",
+    "about": "Andy returns to the office after weeks of anger management training, determined to make a fresh start with all the Dunder-Mifflin employees. Meanwhile, it's safety training day in the office, and Michael and Dwight are on a mission to illuminate the dangers of the workplace.",
+    "rating": 8.8,
+    "votes": 3164,
+    "duration": 21,
+    "date": " 12 April 2007",
+    "moods": [
+      "workplace"
+    ],
+    "mood_sources": {
+      "workplace": "keyword"
+    }
+  },
+  {
+    "id": 47,
+    "season": 3,
+    "episode": 20,
+    "title": "Product Recall",
+    "about": "Michael tries to be proactive during a watermark crisis, but only makes the situation worse. Meanwhile, Angela has trouble being apologetic with customers, and Andy discovers a secret about his new girlfriend.",
+    "rating": 8.7,
+    "votes": 3138,
+    "duration": 21,
+    "date": " 26 April 2007",
+    "moods": [
+      "comfort",
+      "romantic"
+    ],
+    "mood_sources": {
+      "comfort": "keyword",
+      "romantic": "keyword"
+    }
+  },
+  {
+    "id": 48,
+    "season": 3,
+    "episode": 21,
+    "title": "Women's Appreciation",
+    "about": "Phyllis gets flashed in the parking lot, and Dwight goes all out to secure the premises. Michael ostensibly takes the women in the office to the mall to comfort them, but he's really doing it to get advice about breaking up with Jan.",
+    "rating": 8.8,
+    "votes": 3158,
+    "duration": 29,
+    "date": " 3 May 2007",
+    "moods": [
+      "workplace"
+    ],
+    "mood_sources": {
+      "workplace": "keyword"
+    }
+  },
+  {
+    "id": 49,
+    "season": 3,
+    "episode": 22,
+    "title": "Beach Games",
+    "about": "Michael uses \"beach day\" at Dunder-Mifflin to find out which employee would be his most capable replacement, just in case he receives the promotion to the New York office that he's applied for.",
+    "rating": 9.2,
+    "votes": 3641,
+    "duration": 28,
+    "date": " 10 May 2007",
+    "moods": [
+      "workplace"
+    ],
+    "mood_sources": {
+      "workplace": "keyword"
+    }
+  },
+  {
+    "id": 50,
+    "season": 3,
+    "episode": 23,
+    "title": "The Job",
+    "about": "Michael appoints Dwight as regional manager, anticipating that he will receive the job at corporate. Jim and Karen also interview for the same position. And Michael gets back together with Jan after she gets a boob job.",
+    "rating": 9.3,
+    "votes": 3898,
+    "duration": 42,
+    "date": " 17 May 2007",
+    "moods": [
+      "comfort",
+      "wholesome",
+      "workplace"
+    ],
+    "mood_sources": {
+      "comfort": "keyword",
+      "wholesome": "keyword",
+      "workplace": "keyword"
+    }
+  },
+  {
+    "id": 51,
+    "season": 4,
+    "episode": 1,
+    "title": "Fun Run",
+    "about": "Michael accidentally runs over Meridith in the parking lot, and his guilt causes him to organize a 5-K run for her. Dwight and Angela have a falling-out after he kills her cat, and Jim and Pam's relationship is discovered.",
+    "rating": 8.8,
+    "votes": 3635,
+    "duration": 42,
+    "date": " 27 September 2007",
+    "moods": [
+      "chaos"
+    ],
+    "mood_sources": {
+      "chaos": "keyword"
+    }
+  },
+  {
+    "id": 52,
+    "season": 4,
+    "episode": 2,
+    "title": "Dunder Mifflin Infinity",
+    "about": "Michael feels threatened when Ryan returns to the Scranton office to share his ideas about the future of Dunder Mifflin. Jim and Pam's relationship is shared with the entire office, while Angela and Dwight's relationship is on the rocks.",
+    "rating": 8.3,
+    "votes": 2934,
+    "duration": 42,
+    "date": " 4 October 2007",
+    "moods": [
+      "workplace"
+    ],
+    "mood_sources": {
+      "workplace": "keyword"
+    }
+  },
+  {
+    "id": 53,
+    "season": 4,
+    "episode": 3,
+    "title": "Launch Party",
+    "about": "The Dunder Mifflin Infinity website is launching and Michael is excited about going to the big launch party in New York while Angela plans a satellite party for the Scranton branch. ...\n                    See full summaryÃƒâ€šÃ‚Â Ãƒâ€šÃ‚Â»",
+    "rating": 8.4,
+    "votes": 2844,
+    "duration": 42,
+    "date": " 11 October 2007",
+    "moods": [
+      "comfort",
+      "workplace"
+    ],
+    "mood_sources": {
+      "comfort": "keyword",
+      "workplace": "keyword"
+    }
+  },
+  {
+    "id": 54,
+    "season": 4,
+    "episode": 4,
+    "title": "Money",
+    "about": "As Jan renovates the condo, Michael confronts his growing debt every way he can, which includes pressuring his employees for a loan. Pam and Jim spend a night out on Dwight's family beet farm, now a bed and breakfast.",
+    "rating": 8.7,
+    "votes": 3073,
+    "duration": 42,
+    "date": " 18 October 2007",
+    "moods": [
+      "comfort",
+      "workplace"
+    ],
+    "mood_sources": {
+      "comfort": "keyword",
+      "workplace": "keyword"
+    }
+  },
+  {
+    "id": 55,
+    "season": 4,
+    "episode": 5,
+    "title": "Local Ad",
+    "about": "Michael tries to make a local Dunder Mifflin commercial that is better than the one the professional ad agency made for them. Meanwhile, Andy tries to confide in Dwight about his new relationship with Angela.",
+    "rating": 8.8,
+    "votes": 3125,
+    "duration": 22,
+    "date": " 25 October 2007",
+    "moods": [
+      "workplace"
+    ],
+    "mood_sources": {
+      "workplace": "default"
+    }
+  },
+  {
+    "id": 56,
+    "season": 4,
+    "episode": 6,
+    "title": "Branch Wars",
+    "about": "Michael and Dwight try to play a prank on Karen, who is now manager of the Utica branch, after she tries to steal Stanley from the Scranton office. Meanwhile, Pam, Toby, and Oscar start their own exclusive office book club.",
+    "rating": 8.5,
+    "votes": 2878,
+    "duration": 30,
+    "date": " 1 November 2007",
+    "moods": [
+      "workplace"
+    ],
+    "mood_sources": {
+      "workplace": "keyword"
+    }
+  },
+  {
+    "id": 57,
+    "season": 4,
+    "episode": 7,
+    "title": "Survivor Man",
+    "about": "After Michael isn't invited to a camping trip with Ryan, he sets out to prove that he can brave it out in the wilderness by himself. Jim, who is in charge of the office while Michael is gone, tries to change the birthday party policy.",
+    "rating": 8.2,
+    "votes": 2775,
+    "duration": 30,
+    "date": " 8 November 2007",
+    "moods": [
+      "comfort",
+      "workplace"
+    ],
+    "mood_sources": {
+      "comfort": "keyword",
+      "workplace": "keyword"
+    }
+  },
+  {
+    "id": 58,
+    "season": 4,
+    "episode": 8,
+    "title": "The Deposition",
+    "about": "Michael is put in an awkward position when Jan sues Dunder Mifflin for wrongful termination and he is deposed as a witness. Meanwhile, Kelly begins smack-talking Pam after Darryl beats Jim at Ping-Pong.",
+    "rating": 8.7,
+    "votes": 2923,
+    "duration": 30,
+    "date": " 15 November 2007",
+    "moods": [
+      "cringe"
+    ],
+    "mood_sources": {
+      "cringe": "keyword"
+    }
+  },
+  {
+    "id": 59,
+    "season": 4,
+    "episode": 9,
+    "title": "Dinner Party",
+    "about": "Michael invites Jim and Pam and Andy and Angela to a couples-only dinner party, which makes Dwight very jealous. However, the only thing he's missing is a ringside seat to witness Michael and Jan's extremely dysfunctional home life.",
+    "rating": 9.5,
+    "votes": 5601,
+    "duration": 30,
+    "date": " 10 April 2008",
+    "moods": [
+      "comfort",
+      "romantic"
+    ],
+    "mood_sources": {
+      "comfort": "keyword",
+      "romantic": "keyword"
+    }
+  },
+  {
+    "id": 60,
+    "season": 4,
+    "episode": 10,
+    "title": "Chair Model",
+    "about": "Kevin and Andy team up to reclaim the stolen Dunder Mifflin parking spaces, which forces them into a showdown with the other four bosses of the office park. Meanwhile, Michael becomes fascinated by a woman modeling chairs in a catalog.",
+    "rating": 8.0,
+    "votes": 2757,
+    "duration": 30,
+    "date": " 17 April 2008",
+    "moods": [
+      "workplace"
+    ],
+    "mood_sources": {
+      "workplace": "keyword"
+    }
+  },
+  {
+    "id": 61,
+    "season": 4,
+    "episode": 11,
+    "title": "Night Out",
+    "about": "Michael and Dwight go to New York to party with Ryan, who is having lots of personal and professional problems. The rest of the office employees work late, and wind up getting locked in the business park.",
+    "rating": 8.6,
+    "votes": 2872,
+    "duration": 21,
+    "date": " 24 April 2008",
+    "moods": [
+      "comfort",
+      "workplace"
+    ],
+    "mood_sources": {
+      "comfort": "keyword",
+      "workplace": "keyword"
+    }
+  },
+  {
+    "id": 62,
+    "season": 4,
+    "episode": 12,
+    "title": "Did I Stutter?",
+    "about": "Michael tries to figure out how to respond to Stanley's insubordination during a meeting, and Dwight buys Andy's vehicle and immediately flips it for more money.",
+    "rating": 8.3,
+    "votes": 2756,
+    "duration": 22,
+    "date": " 1 May 2008",
+    "moods": [
+      "workplace"
+    ],
+    "mood_sources": {
+      "workplace": "keyword"
+    }
+  },
+  {
+    "id": 63,
+    "season": 4,
+    "episode": 13,
+    "title": "Job Fair",
+    "about": "Dunder-Mifflin participates in a high school job fair, but few students are interested. Jim, Andy, and Kevin play a round of golf with a prospective client. Back at the office, everyone but Dwight and Angela leave for the day.",
+    "rating": 7.8,
+    "votes": 2627,
+    "duration": 30,
+    "date": " 8 May 2008",
+    "moods": [
+      "workplace"
+    ],
+    "mood_sources": {
+      "workplace": "keyword"
+    }
+  },
+  {
+    "id": 64,
+    "season": 4,
+    "episode": 14,
+    "title": "Goodbye, Toby",
+    "about": "Michael throws an extravagant going-away party for Toby, and falls in love with the woman who is replacing him. Jim plans to propose to Pam at the party, but gets out-staged. Back at corporate, Ryan is arrested for fraud.",
+    "rating": 9.3,
+    "votes": 3939,
+    "duration": 42,
+    "date": " 15 May 2008",
+    "moods": [
+      "comfort",
+      "romantic",
+      "workplace"
+    ],
+    "mood_sources": {
+      "comfort": "keyword",
+      "romantic": "keyword",
+      "workplace": "keyword"
+    }
+  },
+  {
+    "id": 65,
+    "season": 5,
+    "episode": 1,
+    "title": "Weight Loss",
+    "about": "Michael tries to motivate the Scranton branch to lose weight as part of an interoffice competition. Jim is lost after Pam leaves for art school in New York, and Angela continues to see Dwight even though she is now engaged to Andy.",
+    "rating": 8.8,
+    "votes": 3264,
+    "duration": 43,
+    "date": " 25 September 2008",
+    "moods": [
+      "workplace"
+    ],
+    "mood_sources": {
+      "workplace": "keyword"
+    }
+  },
+  {
+    "id": 66,
+    "season": 5,
+    "episode": 2,
+    "title": "Business Ethics",
+    "about": "A confession at an H.R. business ethics seminar leads to a dispute between Michael and Holly over whether Meredith should be fired. Dwight tries to prove to Jim how long he can go without taking a personal break.",
+    "rating": 8.3,
+    "votes": 2654,
+    "duration": 22,
+    "date": " 9 October 2008",
+    "moods": [
+      "chaos"
+    ],
+    "mood_sources": {
+      "chaos": "keyword"
+    }
+  },
+  {
+    "id": 67,
+    "season": 5,
+    "episode": 3,
+    "title": "Baby Shower",
+    "about": "After planning an office baby shower for Jan, Michael is upset when he finds out that she had the baby without him--even though he's already been told that he's not the baby's father.",
+    "rating": 8.0,
+    "votes": 2621,
+    "duration": 22,
+    "date": " 16 October 2008",
+    "moods": [
+      "workplace"
+    ],
+    "mood_sources": {
+      "workplace": "keyword"
+    }
+  },
+  {
+    "id": 68,
+    "season": 5,
+    "episode": 4,
+    "title": "Crime Aid",
+    "about": "Michael and Holly have sex for the first time, and Michael holds a fund-raiser for the office after it is burglarized. Dwight confides in Phyllis after Andy and Angela set a wedding date, and Jim runs into Pam's ex-fiancÃƒÆ’Ã‚Â©, Roy.",
+    "rating": 8.1,
+    "votes": 2525,
+    "duration": 30,
+    "date": " 23 October 2008",
+    "moods": [
+      "comfort",
+      "romantic",
+      "workplace"
+    ],
+    "mood_sources": {
+      "comfort": "keyword",
+      "romantic": "keyword",
+      "workplace": "keyword"
+    }
+  },
+  {
+    "id": 69,
+    "season": 5,
+    "episode": 5,
+    "title": "Employee Transfer",
+    "about": "Holly is transferred back to New Hampshire after corporate discovers that she and Michael are dating. Dwight tries to apply to Cornell to get under Andy's skin. Jim's brothers and Pam decide to play a trick on Jim when they meet for lunch.",
+    "rating": 8.0,
+    "votes": 2600,
+    "duration": 22,
+    "date": " 30 October 2008",
+    "moods": [
+      "workplace"
+    ],
+    "mood_sources": {
+      "workplace": "default"
+    }
+  },
+  {
+    "id": 70,
+    "season": 5,
+    "episode": 6,
+    "title": "Customer Survey",
+    "about": "Dwight and Jim believe that something is suspicious about their low customer performance ratings. After consulting with Angela, Andy finds the perfect site for their wedding--Dwight's beet farm.",
+    "rating": 8.5,
+    "votes": 2717,
+    "duration": 22,
+    "date": " 6 November 2008",
+    "moods": [
+      "romantic"
+    ],
+    "mood_sources": {
+      "romantic": "keyword"
+    }
+  },
+  {
+    "id": 71,
+    "season": 5,
+    "episode": 7,
+    "title": "Business Trip",
+    "about": "David Wallace sends Michael on a business trip to Winnipeg to help him forget about Holly's transfer to Nashua, and Pam tells Jim that she failed a class and has to stay in New York City.",
+    "rating": 8.2,
+    "votes": 2516,
+    "duration": 30,
+    "date": " 13 November 2008",
+    "moods": [
+      "wholesome"
+    ],
+    "mood_sources": {
+      "wholesome": "keyword"
+    }
+  },
+  {
+    "id": 72,
+    "season": 5,
+    "episode": 8,
+    "title": "Frame Toby",
+    "about": "When Michael discovers that corporate has brought back Toby to replace Holly, he tries to frame him with drugs and to get him fired. Meanwhile, Pam has issues with the disgusting microwave....\n                    See full summaryÃƒâ€šÃ‚Â Ãƒâ€šÃ‚Â»",
+    "rating": 8.6,
+    "votes": 2799,
+    "duration": 30,
+    "date": " 20 November 2008",
+    "moods": [
+      "chaos"
+    ],
+    "mood_sources": {
+      "chaos": "keyword"
+    }
+  },
+  {
+    "id": 73,
+    "season": 5,
+    "episode": 9,
+    "title": "The Surplus",
+    "about": "Michael has to spend the office surplus by they end of the day, but he can't decide between a copier or new chairs. Dwight plays a dirty trick on Angela as they prepare for Andy and Angela's wedding on the beet farm.",
+    "rating": 8.8,
+    "votes": 2776,
+    "duration": 22,
+    "date": " 4 December 2008",
+    "moods": [
+      "romantic",
+      "workplace"
+    ],
+    "mood_sources": {
+      "romantic": "keyword",
+      "workplace": "keyword"
+    }
+  },
+  {
+    "id": 74,
+    "season": 5,
+    "episode": 10,
+    "title": "Moroccan Christmas",
+    "about": "Phyllis blackmails Angela into doing the work for the Christmas party, which Michael turns into an intervention after Meredith gets drunk and sets her hair on fire. Meanwhile, Dwight corners the market on a popular Christmas gift.",
+    "rating": 8.4,
+    "votes": 2613,
+    "duration": 30,
+    "date": " 11 December 2008",
+    "moods": [
+      "chaos",
+      "christmas",
+      "comfort",
+      "workplace"
+    ],
+    "mood_sources": {
+      "chaos": "keyword",
+      "christmas": "keyword",
+      "comfort": "keyword",
+      "workplace": "keyword"
+    }
+  },
+  {
+    "id": 75,
+    "season": 5,
+    "episode": 11,
+    "title": "The Duel",
+    "about": "Moments before he leaves for New York for a meeting with David Wallace, Michael tells Andy that Angela and Dwight are seeing each other. Andy and Dwight then decide to have it out in the parking lot.",
+    "rating": 8.7,
+    "votes": 2711,
+    "duration": 30,
+    "date": " 15 January 2009",
+    "moods": [
+      "workplace"
+    ],
+    "mood_sources": {
+      "workplace": "keyword"
+    }
+  },
+  {
+    "id": 76,
+    "season": 5,
+    "episode": 12,
+    "title": "Prince Family Paper",
+    "about": "Michael's conscience gets the best of him after he and Dwight go undercover to scout a family-run competitor. Back at the office, everyone else spends the day debating whether Hilary Swank is hot.",
+    "rating": 8.0,
+    "votes": 2615,
+    "duration": 22,
+    "date": " 22 January 2009",
+    "moods": [
+      "comfort",
+      "workplace"
+    ],
+    "mood_sources": {
+      "comfort": "keyword",
+      "workplace": "keyword"
+    }
+  },
+  {
+    "id": 77,
+    "season": 5,
+    "episode": 13,
+    "title": "Stress Relief",
+    "about": "Dwight's too-realistic fire alarm gives Stanley a heart attack. When he returns, Michael learns that he is the cause of Stanley's stress. To remedy the situation, he forces the office to throw a roast for him.",
+    "rating": 9.7,
+    "votes": 8170,
+    "duration": 60,
+    "date": " 1 February 2009",
+    "moods": [
+      "chaos",
+      "workplace"
+    ],
+    "mood_sources": {
+      "chaos": "keyword",
+      "workplace": "keyword"
+    }
+  },
+  {
+    "id": 78,
+    "season": 5,
+    "episode": 14,
+    "title": "Lecture Circuit: Part 1",
+    "about": "While on lecture tour to other Dunder Mifflin branches, Michael and Pam discover that Jim's ex-girlfriend Karen is pregnant. At the office, Andy falls for a prospective client, and Jim and Dwight try to set up Kelly's birthday party.",
+    "rating": 8.2,
+    "votes": 2474,
+    "duration": 30,
+    "date": " 5 February 2009",
+    "moods": [
+      "comfort",
+      "romantic",
+      "workplace"
+    ],
+    "mood_sources": {
+      "comfort": "keyword",
+      "romantic": "keyword",
+      "workplace": "keyword"
+    }
+  },
+  {
+    "id": 79,
+    "season": 5,
+    "episode": 15,
+    "title": "Lecture Circuit: Part 2",
+    "about": "Michael and Pam go to Nashua and discover that Holly has a new boyfriend. At the office, Jim and Dwight try to come up with a theme for Kelly's birthday party, and Angela gets a new cat.",
+    "rating": 8.1,
+    "votes": 2431,
+    "duration": 30,
+    "date": " 12 February 2009",
+    "moods": [
+      "comfort",
+      "romantic",
+      "workplace"
+    ],
+    "mood_sources": {
+      "comfort": "keyword",
+      "romantic": "keyword",
+      "workplace": "keyword"
+    }
+  },
+  {
+    "id": 80,
+    "season": 5,
+    "episode": 16,
+    "title": "Blood Drive",
+    "about": "Michael holds a lonely hearts party on Valentine's Day at the office, hoping that he will run into a woman he met earlier that day at a blood drive. Meanwhile, Jim and Pam have an awkward lunch with Phillis and Bob Vance.",
+    "rating": 8.0,
+    "votes": 2464,
+    "duration": 22,
+    "date": " 5 March 2009",
+    "moods": [
+      "comfort",
+      "cringe",
+      "romantic",
+      "workplace"
+    ],
+    "mood_sources": {
+      "comfort": "keyword",
+      "cringe": "keyword",
+      "romantic": "keyword",
+      "workplace": "keyword"
+    }
+  },
+  {
+    "id": 81,
+    "season": 5,
+    "episode": 17,
+    "title": "Golden Ticket",
+    "about": "Michael asks Dwight to be the scapegoat for one of his business ideas that backfired badly on him. But when that idea has an unexpected positive upside, Dwight still takes credit and Michael becomes furious.",
+    "rating": 8.7,
+    "votes": 2667,
+    "duration": 30,
+    "date": " 12 March 2009",
+    "moods": [
+      "chaos"
+    ],
+    "mood_sources": {
+      "chaos": "keyword"
+    }
+  },
+  {
+    "id": 82,
+    "season": 5,
+    "episode": 18,
+    "title": "New Boss",
+    "about": "Michael gets upset when he gets a new boss to act as a buffer between him and David Wallace, and he gets even more upset when he disbands the Party Planning Committee and cancels Michael's fifteenth anniversary party.",
+    "rating": 8.3,
+    "votes": 2503,
+    "duration": 30,
+    "date": " 19 March 2009",
+    "moods": [
+      "comfort",
+      "workplace"
+    ],
+    "mood_sources": {
+      "comfort": "keyword",
+      "workplace": "keyword"
+    }
+  },
+  {
+    "id": 83,
+    "season": 5,
+    "episode": 19,
+    "title": "Two Weeks",
+    "about": "As Michael prepares to leave Dunder Mifflin, he announces that he will form his own paper company. Will anybody join him?",
+    "rating": 8.4,
+    "votes": 2492,
+    "duration": 30,
+    "date": " 26 March 2009",
+    "moods": [
+      "workplace"
+    ],
+    "mood_sources": {
+      "workplace": "default"
+    }
+  },
+  {
+    "id": 84,
+    "season": 5,
+    "episode": 20,
+    "title": "Dream Team",
+    "about": "Michael and Pam begin their first day as the Michael Scott Paper Company putting together the rest of the staff and trying to raise money.",
+    "rating": 8.3,
+    "votes": 2484,
+    "duration": 30,
+    "date": " 9 April 2009",
+    "moods": [
+      "comfort",
+      "wholesome"
+    ],
+    "mood_sources": {
+      "comfort": "keyword",
+      "wholesome": "keyword"
+    }
+  },
+  {
+    "id": 85,
+    "season": 5,
+    "episode": 21,
+    "title": "Michael Scott Paper Company",
+    "about": "Tension and disillusionment begin to emerge as Michael, Pam, and Ryan move the Michael Scott Paper Company into a cramped \"workspace\" at the business park.",
+    "rating": 8.7,
+    "votes": 2718,
+    "duration": 22,
+    "date": " 9 April 2009",
+    "moods": [
+      "workplace"
+    ],
+    "mood_sources": {
+      "workplace": "default"
+    }
+  },
+  {
+    "id": 86,
+    "season": 5,
+    "episode": 22,
+    "title": "Heavy Competition",
+    "about": "Dwight chooses loyalty to Dunder Mifflin over loyalty to Michael, which leads to a bitter battle between Michael and Dwight over Dwight's accounts. Back at Dunder Mifflin, Jim pretends to confide in Andy.",
+    "rating": 8.7,
+    "votes": 2568,
+    "duration": 30,
+    "date": " 16 April 2009",
+    "moods": [
+      "workplace"
+    ],
+    "mood_sources": {
+      "workplace": "default"
+    }
+  },
+  {
+    "id": 87,
+    "season": 5,
+    "episode": 23,
+    "title": "Broke",
+    "about": "The Michael Scott Paper Company is gaining clients by offering lower prices than Dunder Mifflin, but is going broke in the process. However, Dunder Mifflin is losing clients to Michael, and is desperate to buy him out.",
+    "rating": 9.2,
+    "votes": 3409,
+    "duration": 30,
+    "date": " 23 April 2009",
+    "moods": [
+      "workplace"
+    ],
+    "mood_sources": {
+      "workplace": "default"
+    }
+  },
+  {
+    "id": 88,
+    "season": 5,
+    "episode": 24,
+    "title": "Casual Friday",
+    "about": "Michael returns to Dunder Mifflin and brings Ryan and Pam in as salespeople, but the existing salespeople demand that Michael return the clients they stole back to them. Meanwhile, some employees take the idea of Casual Friday too far.",
+    "rating": 8.3,
+    "votes": 2467,
+    "duration": 22,
+    "date": " 30 April 2009",
+    "moods": [
+      "workplace"
+    ],
+    "mood_sources": {
+      "workplace": "keyword"
+    }
+  },
+  {
+    "id": 89,
+    "season": 5,
+    "episode": 25,
+    "title": "Cafe Disco",
+    "about": "Michael tries to create a place to escape from work in the storage room that used to house the Michael Scott Paper Company, while Jim and Pam consider taking off and getting married that day.",
+    "rating": 8.7,
+    "votes": 2814,
+    "duration": 30,
+    "date": " 7 May 2009",
+    "moods": [
+      "workplace"
+    ],
+    "mood_sources": {
+      "workplace": "default"
+    }
+  },
+  {
+    "id": 90,
+    "season": 5,
+    "episode": 26,
+    "title": "Company Picnic",
+    "about": "Michael runs into Holly at the company picnic, and the two of them accidentally reveal that the Buffalo branch is closing during a comedy skit before corporate has made the announcement.",
+    "rating": 9.0,
+    "votes": 2954,
+    "duration": 30,
+    "date": " 14 May 2009",
+    "moods": [
+      "chaos",
+      "workplace"
+    ],
+    "mood_sources": {
+      "chaos": "keyword",
+      "workplace": "keyword"
+    }
+  },
+  {
+    "id": 91,
+    "season": 6,
+    "episode": 1,
+    "title": "Gossip",
+    "about": "Michael regrets revealing that Stanley is having an affair, so he spreads a bunch of lies about everyone else to cover his tracks--except that one of the lies that he spread actually turns out to be true.",
+    "rating": 8.8,
+    "votes": 2866,
+    "duration": 30,
+    "date": " 17 September 2009",
+    "moods": [
+      "workplace"
+    ],
+    "mood_sources": {
+      "workplace": "default"
+    }
+  },
+  {
+    "id": 92,
+    "season": 6,
+    "episode": 2,
+    "title": "The Meeting",
+    "about": "Michael sabotages--then promotes--Jim's efforts at getting a promotion, while Dwight and Toby try to prove that Darryl has submitted a fraudulent medical claim.",
+    "rating": 8.1,
+    "votes": 2349,
+    "duration": 30,
+    "date": " 24 September 2009",
+    "moods": [
+      "workplace"
+    ],
+    "mood_sources": {
+      "workplace": "default"
+    }
+  },
+  {
+    "id": 93,
+    "season": 6,
+    "episode": 3,
+    "title": "The Promotion",
+    "about": "Jim discovers just how hard being the boss can be when David Wallace forces Michael and him to determine which employees will be getting a raise.",
+    "rating": 8.0,
+    "votes": 2344,
+    "duration": 30,
+    "date": " 1 October 2009",
+    "moods": [
+      "workplace"
+    ],
+    "mood_sources": {
+      "workplace": "keyword"
+    }
+  },
+  {
+    "id": 94,
+    "season": 6,
+    "episode": 4,
+    "title": "Niagara: Part 1",
+    "about": "The Office travels to Niagara Falls to celebrate Jim and Pam's wedding under strict orders not to mention Pam's pregnancy. Michael, Dwight, and Andy all want to hook up with guests at the wedding and Michael and Dwight meet twins.",
+    "rating": 9.4,
+    "votes": 4560,
+    "duration": 30,
+    "date": " 8 October 2009",
+    "moods": [
+      "comfort",
+      "romantic",
+      "workplace"
+    ],
+    "mood_sources": {
+      "comfort": "keyword",
+      "romantic": "keyword",
+      "workplace": "keyword"
+    }
+  },
+  {
+    "id": 95,
+    "season": 6,
+    "episode": 5,
+    "title": "Niagara: Part 2",
+    "about": "Pam is forced to deal with an embarrassing injury for Andy the night before her wedding, while Kevin deals with the loss of his dress shoes on the morning of the ceremony.",
+    "rating": 9.4,
+    "votes": 3114,
+    "duration": 19,
+    "date": " 8 October 2009",
+    "moods": [
+      "chaos",
+      "cringe",
+      "romantic"
+    ],
+    "mood_sources": {
+      "chaos": "keyword",
+      "cringe": "keyword",
+      "romantic": "keyword"
+    }
+  },
+  {
+    "id": 96,
+    "season": 6,
+    "episode": 6,
+    "title": "Mafia",
+    "about": "Michael meets with an insurance salesman that visits the office and is later convinced by Dwight and Andy that he is part of the mafia.",
+    "rating": 7.6,
+    "votes": 2464,
+    "duration": 30,
+    "date": " 15 October 2009",
+    "moods": [
+      "workplace"
+    ],
+    "mood_sources": {
+      "workplace": "keyword"
+    }
+  },
+  {
+    "id": 97,
+    "season": 6,
+    "episode": 7,
+    "title": "The Lover",
+    "about": "Jim and Pam return from their honeymoon and learn, to their horror, that Michael is dating Pam's mom. Meanwhile, Dwight gives Jim a \"gift\"--which actually has a listening device attached to it.",
+    "rating": 8.6,
+    "votes": 2590,
+    "duration": 30,
+    "date": " 22 October 2009",
+    "moods": [
+      "workplace"
+    ],
+    "mood_sources": {
+      "workplace": "default"
+    }
+  },
+  {
+    "id": 98,
+    "season": 6,
+    "episode": 8,
+    "title": "Koi Pond",
+    "about": "Michael is upset when he becomes the butt of all the office jokes after he falls in a koi pond. Andy and Pam go out together on some cold calls, and everybody mistakes them as a married couple.",
+    "rating": 8.2,
+    "votes": 2348,
+    "duration": 30,
+    "date": " 29 October 2009",
+    "moods": [
+      "comfort",
+      "romantic",
+      "wholesome",
+      "workplace"
+    ],
+    "mood_sources": {
+      "comfort": "keyword",
+      "romantic": "keyword",
+      "wholesome": "keyword",
+      "workplace": "keyword"
+    }
+  },
+  {
+    "id": 99,
+    "season": 6,
+    "episode": 9,
+    "title": "Double Date",
+    "about": "Michael sparks more anger from Pam when he breaks up with her mom on her birthday after he finds out she's 58, and Dwight unsuccessfully tries to get everyone in the office to owe him a favor.",
+    "rating": 8.1,
+    "votes": 2314,
+    "duration": 30,
+    "date": " 5 November 2009",
+    "moods": [
+      "workplace"
+    ],
+    "mood_sources": {
+      "workplace": "keyword"
+    }
+  },
+  {
+    "id": 100,
+    "season": 6,
+    "episode": 10,
+    "title": "Murder",
+    "about": "The entire office is preoccupied about rumors of Dunder Mifflin's bankruptcy. Michael tries to create a distraction by engaging everyone in murder-mystery game, but Jim wonders if that is a good idea.",
+    "rating": 8.7,
+    "votes": 2761,
+    "duration": 23,
+    "date": " 12 November 2009",
+    "moods": [
+      "workplace"
+    ],
+    "mood_sources": {
+      "workplace": "keyword"
+    }
+  },
+  {
+    "id": 101,
+    "season": 6,
+    "episode": 11,
+    "title": "Shareholder Meeting",
+    "about": "Michael speaks out of line at the Dunder Mifflin shareholders meeting and creates a big problem for management, while Jim discovers that nobody in the office thinks he's the \"real\" boss.",
+    "rating": 8.2,
+    "votes": 2336,
+    "duration": 30,
+    "date": " 19 November 2009",
+    "moods": [
+      "workplace"
+    ],
+    "mood_sources": {
+      "workplace": "keyword"
+    }
+  },
+  {
+    "id": 102,
+    "season": 6,
+    "episode": 12,
+    "title": "Scott's Tots",
+    "about": "Ten years ago, Michael promised a group of third graders he would pay for their college tuition if they graduated. Now comes time to pay, and he can't do it. At the office, Dwight's employee of the month idea gets Jim in big trouble.",
+    "rating": 8.3,
+    "votes": 2681,
+    "duration": 30,
+    "date": " 3 December 2009",
+    "moods": [
+      "workplace"
+    ],
+    "mood_sources": {
+      "workplace": "keyword"
+    }
+  },
+  {
+    "id": 103,
+    "season": 6,
+    "episode": 13,
+    "title": "Secret Santa",
+    "about": "Michael gets upset when Jim promises Phyllis that she can be the office Santa, but the office Christmas party may be overshadowed by some bad news from David Wallace.",
+    "rating": 8.5,
+    "votes": 2467,
+    "duration": 30,
+    "date": " 10 December 2009",
+    "moods": [
+      "christmas",
+      "comfort",
+      "workplace"
+    ],
+    "mood_sources": {
+      "christmas": "keyword",
+      "comfort": "keyword",
+      "workplace": "keyword"
+    }
+  },
+  {
+    "id": 104,
+    "season": 6,
+    "episode": 14,
+    "title": "The Banker",
+    "about": "A banker representing a potential buyer comes to the Scranton branch to interview the H.R. department before the sale goes through.",
+    "rating": 6.8,
+    "votes": 3039,
+    "duration": 30,
+    "date": " 21 January 2010",
+    "moods": [
+      "workplace"
+    ],
+    "mood_sources": {
+      "workplace": "keyword"
+    }
+  },
+  {
+    "id": 105,
+    "season": 6,
+    "episode": 15,
+    "title": "Sabre",
+    "about": "Michael hates the changes that Dunder Mifflin's new owner is implementing, so he turns to David Wallace for advice. Jim and Pam find the perfect day care center, but Jim's mistake threatens to ruin the interview.",
+    "rating": 7.7,
+    "votes": 2251,
+    "duration": 30,
+    "date": " 4 February 2010",
+    "moods": [
+      "wholesome",
+      "workplace"
+    ],
+    "mood_sources": {
+      "wholesome": "keyword",
+      "workplace": "keyword"
+    }
+  },
+  {
+    "id": 106,
+    "season": 6,
+    "episode": 16,
+    "title": "Manager and Salesman",
+    "about": "Sabre's CEO wants the Scranton branch to have one manager, and Michael voluntarily steps down and lets Jim become the boss when he finds out that salespeople make more money. However, he soon comes to regret the decision.",
+    "rating": 8.1,
+    "votes": 2223,
+    "duration": 30,
+    "date": " 11 February 2010",
+    "moods": [
+      "workplace"
+    ],
+    "mood_sources": {
+      "workplace": "keyword"
+    }
+  },
+  {
+    "id": 107,
+    "season": 6,
+    "episode": 17,
+    "title": "The Delivery: Part 1",
+    "about": "Pam goes into labor and Jim is ready to take her to the hospital, but she refuses to go. Meanwhile, inspired by Pam and Jim's baby, Dwight and Angela try to reach a \"business agreement\" to have a baby of their own.",
+    "rating": 8.4,
+    "votes": 2347,
+    "duration": 30,
+    "date": " 4 March 2010",
+    "moods": [
+      "workplace"
+    ],
+    "mood_sources": {
+      "workplace": "default"
+    }
+  },
+  {
+    "id": 108,
+    "season": 6,
+    "episode": 18,
+    "title": "The Delivery: Part 2",
+    "about": "After the baby is born, Pam has trouble getting the baby to breastfeed. At the office, Michael takes credit for hooking Jim and Pam up, and tries to do the same thing for Kevin and Erin, making Andy jealous.",
+    "rating": 8.5,
+    "votes": 2370,
+    "duration": 30,
+    "date": " 4 March 2010",
+    "moods": [
+      "workplace"
+    ],
+    "mood_sources": {
+      "workplace": "keyword"
+    }
+  },
+  {
+    "id": 109,
+    "season": 6,
+    "episode": 19,
+    "title": "St. Patrick's Day",
+    "about": "It's St. Patrick's Day, and the CEO forces the office to work late because she won't leave. In addition, Michael unsuccessfully tries to suck up to his new boss, and Andy and Erin's first date is delayed because Erin is sick.",
+    "rating": 7.7,
+    "votes": 2196,
+    "duration": 30,
+    "date": " 11 March 2010",
+    "moods": [
+      "romantic",
+      "workplace"
+    ],
+    "mood_sources": {
+      "romantic": "keyword",
+      "workplace": "keyword"
+    }
+  },
+  {
+    "id": 110,
+    "season": 6,
+    "episode": 20,
+    "title": "New Leads",
+    "about": "When the sales staff begins trying to boss around everyone in the office, Michael tries to teach them a lesson by withholding a valuable set of sales leads.",
+    "rating": 7.7,
+    "votes": 2154,
+    "duration": 23,
+    "date": " 18 March 2010",
+    "moods": [
+      "workplace"
+    ],
+    "mood_sources": {
+      "workplace": "keyword"
+    }
+  },
+  {
+    "id": 111,
+    "season": 6,
+    "episode": 21,
+    "title": "Happy Hour",
+    "about": "Oscar gets everybody in the office to go to Happy Hour so that he can hit on a coworker in shipping. Pam tries to set up Michael with a friend at the bar, but Michael's alter ego, \"Date Mike,\" threatens to spoil the entire evening.",
+    "rating": 8.6,
+    "votes": 2503,
+    "duration": 30,
+    "date": " 25 March 2010",
+    "moods": [
+      "comfort",
+      "romantic",
+      "workplace"
+    ],
+    "mood_sources": {
+      "comfort": "keyword",
+      "romantic": "keyword",
+      "workplace": "keyword"
+    }
+  },
+  {
+    "id": 112,
+    "season": 6,
+    "episode": 22,
+    "title": "Secretary's Day",
+    "about": "Michael creates problems for Andy on Secretary's Day when he tells Erin that Andy was engaged to Angela, and Kevin is upset after Oscar makes a video comparing Kevin to Cookie Monster.",
+    "rating": 7.8,
+    "votes": 2168,
+    "duration": 30,
+    "date": " 22 April 2010",
+    "moods": [
+      "workplace"
+    ],
+    "mood_sources": {
+      "workplace": "default"
+    }
+  },
+  {
+    "id": 113,
+    "season": 6,
+    "episode": 23,
+    "title": "Body Language",
+    "about": "Michael is hopeful that a potential client is interested in him, but everyone in the office except Pam thinks he's wasting his time. Meanwhile, Dwight recruits Kelly to apply for the Sabre minority management training program.",
+    "rating": 8.0,
+    "votes": 2197,
+    "duration": 30,
+    "date": " 29 April 2010",
+    "moods": [
+      "workplace"
+    ],
+    "mood_sources": {
+      "workplace": "keyword"
+    }
+  },
+  {
+    "id": 114,
+    "season": 6,
+    "episode": 24,
+    "title": "The Cover-Up",
+    "about": "Michael becomes convinced that Donna is having an affair and puts Dwight on the case, but Pam soon discovers that the suspicions may be true. Meanwhile, Darryl gets revenge on Andy for an earlier incident.",
+    "rating": 8.1,
+    "votes": 2199,
+    "duration": 30,
+    "date": " 6 May 2010",
+    "moods": [
+      "workplace"
+    ],
+    "mood_sources": {
+      "workplace": "default"
+    }
+  },
+  {
+    "id": 115,
+    "season": 6,
+    "episode": 25,
+    "title": "The Chump",
+    "about": "Michael continues to see Donna even after learning she's married and meeting her husband, Dwight and Angela take their baby contract to an arbitrator, and Jim and Pam struggle to stay awake at the office.",
+    "rating": 7.8,
+    "votes": 2113,
+    "duration": 30,
+    "date": " 13 May 2010",
+    "moods": [
+      "workplace"
+    ],
+    "mood_sources": {
+      "workplace": "keyword"
+    }
+  },
+  {
+    "id": 116,
+    "season": 6,
+    "episode": 26,
+    "title": "Whistleblower",
+    "about": "Jo comes to the Scranton branch to find the whistle-blower. However, three different people have confessed to Michael, Michael is protecting them, and the person most people think is the culprit is keeping his mouth shut.",
+    "rating": 8.0,
+    "votes": 2184,
+    "duration": 30,
+    "date": " 20 May 2010",
+    "moods": [
+      "workplace"
+    ],
+    "mood_sources": {
+      "workplace": "keyword"
+    }
+  },
+  {
+    "id": 117,
+    "season": 7,
+    "episode": 1,
+    "title": "Nepotism",
+    "about": "Everybody demands that Michael fire the new office assistant, but he won't because he's his nephew. Meanwhile, Pam tries to play a prank on Dwight, who has bought the office building, to make up for ruining Jim's prank.",
+    "rating": 8.4,
+    "votes": 2520,
+    "duration": 30,
+    "date": " 23 September 2010",
+    "moods": [
+      "chaos",
+      "workplace"
+    ],
+    "mood_sources": {
+      "chaos": "keyword",
+      "workplace": "keyword"
+    }
+  },
+  {
+    "id": 118,
+    "season": 7,
+    "episode": 2,
+    "title": "Counseling",
+    "about": "Michael is forced to go through counseling with Toby, Dwight seeks revenge on a local mall that refused his business, and Pam tries to fake her way to a promotion.",
+    "rating": 8.2,
+    "votes": 2272,
+    "duration": 30,
+    "date": " 30 September 2010",
+    "moods": [
+      "workplace"
+    ],
+    "mood_sources": {
+      "workplace": "keyword"
+    }
+  },
+  {
+    "id": 119,
+    "season": 7,
+    "episode": 3,
+    "title": "Andy's Play",
+    "about": "Andy invites the entire office to watch him in the community theater production of \"Sweeney Todd,\" but Erin decides to babysit for Jim and Pam instead, and Michael is upset because he auditioned for the lead and didn't get it.",
+    "rating": 8.2,
+    "votes": 2413,
+    "duration": 30,
+    "date": " 7 October 2010",
+    "moods": [
+      "workplace"
+    ],
+    "mood_sources": {
+      "workplace": "keyword"
+    }
+  },
+  {
+    "id": 120,
+    "season": 7,
+    "episode": 4,
+    "title": "Sex Ed",
+    "about": "A herpes scare causes Michael to get back in touch with his ex-girlfriends, where he decides to reevaluate those relationships. Meanwhile, Andy tries to teach safe sex to his officemates, but he has a clear ulterior motive.",
+    "rating": 7.8,
+    "votes": 2209,
+    "duration": 30,
+    "date": " 14 October 2010",
+    "moods": [
+      "comfort",
+      "romantic",
+      "wholesome",
+      "workplace"
+    ],
+    "mood_sources": {
+      "comfort": "keyword",
+      "romantic": "keyword",
+      "wholesome": "keyword",
+      "workplace": "keyword"
+    }
+  },
+  {
+    "id": 121,
+    "season": 7,
+    "episode": 5,
+    "title": "The Sting",
+    "about": "Michael organizes a sting operation to find out the secrets of a rival paper company's salesman who is stealing Dunder Mifflin's clients, and Andy gets Darryl's help to form a band.",
+    "rating": 7.8,
+    "votes": 2156,
+    "duration": 30,
+    "date": " 21 October 2010",
+    "moods": [
+      "wholesome",
+      "workplace"
+    ],
+    "mood_sources": {
+      "wholesome": "keyword",
+      "workplace": "keyword"
+    }
+  },
+  {
+    "id": 122,
+    "season": 7,
+    "episode": 6,
+    "title": "Costume Contest",
+    "about": "It's Halloween at Dunder Mifflin, and Michael is upset that Darryl went over his head with an idea, and Jim and Pam are obsessed with finding out why Danny didn't call Pam back when they were dating four years ago.",
+    "rating": 8.2,
+    "votes": 2249,
+    "duration": 30,
+    "date": " 28 October 2010",
+    "moods": [
+      "workplace"
+    ],
+    "mood_sources": {
+      "workplace": "default"
+    }
+  },
+  {
+    "id": 123,
+    "season": 7,
+    "episode": 7,
+    "title": "Christening",
+    "about": "During Jim and Pam's daughter's christening, Michael becomes upset over the lack of family-like unity between himself and his employees. So he responds by impulsively joining a teenage church mission to Mexico.",
+    "rating": 7.4,
+    "votes": 2238,
+    "duration": 23,
+    "date": " 4 November 2010",
+    "moods": [
+      "comfort",
+      "workplace"
+    ],
+    "mood_sources": {
+      "comfort": "keyword",
+      "workplace": "keyword"
+    }
+  },
+  {
+    "id": 124,
+    "season": 7,
+    "episode": 8,
+    "title": "Viewing Party",
+    "about": "Michael sabotages Erin's \"Glee\" viewing party because of his contempt for Gabe, Jim and Pam discover that Dwight can keep their daughter from crying, and Andy has a bad reaction to a mixture of wine and a Japanese stimulant.",
+    "rating": 7.8,
+    "votes": 2200,
+    "duration": 30,
+    "date": " 11 November 2010",
+    "moods": [
+      "comfort"
+    ],
+    "mood_sources": {
+      "comfort": "keyword"
+    }
+  },
+  {
+    "id": 125,
+    "season": 7,
+    "episode": 9,
+    "title": "WUPHF.com",
+    "about": "Some co-workers who invested in Ryan's Internet venture want him to sell, but Michael refuses to go along. Meanwhile, Jim loses his motivation to work when he reaches his commission cap, ...\n                    See full summaryÃƒâ€šÃ‚Â Ãƒâ€šÃ‚Â»",
+    "rating": 7.7,
+    "votes": 2141,
+    "duration": 30,
+    "date": " 18 November 2010",
+    "moods": [
+      "workplace"
+    ],
+    "mood_sources": {
+      "workplace": "default"
+    }
+  },
+  {
+    "id": 126,
+    "season": 7,
+    "episode": 10,
+    "title": "China",
+    "about": "Pam stands up to Dwight when he makes cutbacks to save money in the building, but will Dwight have the last laugh? Meanwhile, the office is surprised and energized when Michael outsmarts Oscar in a debate about China.",
+    "rating": 8.2,
+    "votes": 2246,
+    "duration": 30,
+    "date": " 2 December 2010",
+    "moods": [
+      "workplace"
+    ],
+    "mood_sources": {
+      "workplace": "keyword"
+    }
+  },
+  {
+    "id": 127,
+    "season": 7,
+    "episode": 11,
+    "title": "Classy Christmas",
+    "about": "Michael throws an elaborate Christmas party to celebrate Holly's temporary return to the Scranton branch, but is disappointed when he learns that she still has a boyfriend.",
+    "rating": 9.0,
+    "votes": 2878,
+    "duration": 60,
+    "date": " 9 December 2010",
+    "moods": [
+      "christmas",
+      "comfort",
+      "romantic",
+      "workplace"
+    ],
+    "mood_sources": {
+      "christmas": "keyword",
+      "comfort": "keyword",
+      "romantic": "keyword",
+      "workplace": "keyword"
+    }
+  },
+  {
+    "id": 128,
+    "season": 7,
+    "episode": 12,
+    "title": "Ultimatum",
+    "about": "Michael gets upset when Holly returns from the holidays without an engagement ring, but still together with her boyfriend. Meanwhile, Pam tries to help her co-workers keep with their New Year's resolutions.",
+    "rating": 8.3,
+    "votes": 2282,
+    "duration": 30,
+    "date": " 20 January 2011",
+    "moods": [
+      "comfort",
+      "romantic",
+      "wholesome"
+    ],
+    "mood_sources": {
+      "comfort": "keyword",
+      "romantic": "keyword",
+      "wholesome": "keyword"
+    }
+  },
+  {
+    "id": 129,
+    "season": 7,
+    "episode": 13,
+    "title": "The Seminar",
+    "about": "Andy tries to host a small business seminar at the office. Michael agrees to help by posing as a Greek entrepreneur, and tries to get Holly to play along.",
+    "rating": 7.6,
+    "votes": 2171,
+    "duration": 30,
+    "date": " 27 January 2011",
+    "moods": [
+      "wholesome",
+      "workplace"
+    ],
+    "mood_sources": {
+      "wholesome": "keyword",
+      "workplace": "keyword"
+    }
+  },
+  {
+    "id": 130,
+    "season": 7,
+    "episode": 14,
+    "title": "The Search",
+    "about": "When Jim gets an emergency phone call from Helene, he is forced to leave Michael in the bathroom of a gas station. Meanwhile, Holly, Erin, and Dwight set out on a journey to find Michael. ...\n                    See full summaryÃƒâ€šÃ‚Â Ãƒâ€šÃ‚Â»",
+    "rating": 8.5,
+    "votes": 2369,
+    "duration": 30,
+    "date": " 3 February 2011",
+    "moods": [
+      "workplace"
+    ],
+    "mood_sources": {
+      "workplace": "keyword"
+    }
+  },
+  {
+    "id": 131,
+    "season": 7,
+    "episode": 15,
+    "title": "PDA",
+    "about": "It's Valentine's Day, and the office is fed up with Michael and Holly's PDA, Andy helps Erin solve Gabe's riddles to find her gift, and Jim and Pam get drunk and try to find a place in the office to have sex.",
+    "rating": 8.4,
+    "votes": 2347,
+    "duration": 22,
+    "date": " 10 February 2011",
+    "moods": [
+      "romantic",
+      "wholesome",
+      "workplace"
+    ],
+    "mood_sources": {
+      "romantic": "keyword",
+      "wholesome": "keyword",
+      "workplace": "keyword"
+    }
+  },
+  {
+    "id": 132,
+    "season": 7,
+    "episode": 16,
+    "title": "Threat Level Midnight",
+    "about": "Michael finally finishes his movie \"Threat Level Midnight\" and screens it for his employees at Dunder Mifflin, but Holly is less than enthusiastic for his finished product.",
+    "rating": 9.4,
+    "votes": 4877,
+    "duration": 30,
+    "date": " 17 February 2011",
+    "moods": [
+      "workplace"
+    ],
+    "mood_sources": {
+      "workplace": "keyword"
+    }
+  },
+  {
+    "id": 133,
+    "season": 7,
+    "episode": 17,
+    "title": "Todd Packer",
+    "about": "Everyone is up in arms after Michael convinces Holly to give Todd Packer an office job, and Andy gets upset after Pam gets a new computer for reception but not for him.",
+    "rating": 7.5,
+    "votes": 2123,
+    "duration": 30,
+    "date": " 24 February 2011",
+    "moods": [
+      "workplace"
+    ],
+    "mood_sources": {
+      "workplace": "keyword"
+    }
+  },
+  {
+    "id": 134,
+    "season": 7,
+    "episode": 18,
+    "title": "Garage Sale",
+    "about": "Michael plans to propose to Holly the day of the Dunder Mifflin garage sale, but Holly may have to take an extended leave of absence to Colorado because her father is sick.",
+    "rating": 9.3,
+    "votes": 3730,
+    "duration": 30,
+    "date": " 24 March 2011",
+    "moods": [
+      "workplace"
+    ],
+    "mood_sources": {
+      "workplace": "default"
+    }
+  },
+  {
+    "id": 135,
+    "season": 7,
+    "episode": 19,
+    "title": "Training Day",
+    "about": "Michael makes fast friends with the man coming in to replace him at Dunder Mifflin, but later begins to have second thoughts after seeing him in action.",
+    "rating": 7.8,
+    "votes": 2215,
+    "duration": 30,
+    "date": " 14 April 2011",
+    "moods": [
+      "comfort"
+    ],
+    "mood_sources": {
+      "comfort": "keyword"
+    }
+  },
+  {
+    "id": 136,
+    "season": 7,
+    "episode": 20,
+    "title": "Michael's Last Dundies",
+    "about": "Michael hosts his final \"Dundies\" as the boss at the Scranton branch, but tension is in the air, and Deangelo Vickers, the new boss, is having trouble with his co-hosting duties.",
+    "rating": 9.0,
+    "votes": 3039,
+    "duration": 23,
+    "date": " 21 April 2011",
+    "moods": [
+      "workplace"
+    ],
+    "mood_sources": {
+      "workplace": "keyword"
+    }
+  },
+  {
+    "id": 137,
+    "season": 7,
+    "episode": 21,
+    "title": "Goodbye, Michael",
+    "about": "As the office gets ready for Michael's final day at Dunder Mifflin, Michael doesn't tell anyone that he's leaving a day early. Meanwhile, Deangelo accompanies a nervous Andy on a visit to one of Michael's old clients.",
+    "rating": 9.8,
+    "votes": 8059,
+    "duration": 50,
+    "date": " 28 April 2011",
+    "moods": [
+      "workplace"
+    ],
+    "mood_sources": {
+      "workplace": "keyword"
+    }
+  },
+  {
+    "id": 138,
+    "season": 7,
+    "episode": 22,
+    "title": "The Inner Circle",
+    "about": "Tensions rise and feelings are hurt when Deangelo creates an \"inner circle\" at the office--which is only composed of men.",
+    "rating": 7.6,
+    "votes": 2183,
+    "duration": 23,
+    "date": " 5 May 2011",
+    "moods": [
+      "workplace"
+    ],
+    "mood_sources": {
+      "workplace": "keyword"
+    }
+  },
+  {
+    "id": 139,
+    "season": 7,
+    "episode": 23,
+    "title": "Dwight K. Schrute, (Acting) Manager",
+    "about": "When Jim rejects Jo's offer, Dwight becomes acting manager at the Scranton branch, but an accident could cause his tenure to be short-lived.",
+    "rating": 8.7,
+    "votes": 2414,
+    "duration": 23,
+    "date": " 12 May 2011",
+    "moods": [
+      "chaos",
+      "workplace"
+    ],
+    "mood_sources": {
+      "chaos": "keyword",
+      "workplace": "keyword"
+    }
+  },
+  {
+    "id": 140,
+    "season": 7,
+    "episode": 24,
+    "title": "Search Committee",
+    "about": "The Scranton branch puts together a search committee to find the next boss, but the pool of interviewees proves to be less than impressive, and Dwight demands an interview in spite of his gun accident.",
+    "rating": 8.8,
+    "votes": 2623,
+    "duration": 42,
+    "date": " 19 May 2011",
+    "moods": [
+      "chaos",
+      "comfort",
+      "wholesome",
+      "workplace"
+    ],
+    "mood_sources": {
+      "chaos": "keyword",
+      "comfort": "keyword",
+      "wholesome": "keyword",
+      "workplace": "keyword"
+    }
+  },
+  {
+    "id": 141,
+    "season": 8,
+    "episode": 1,
+    "title": "The List",
+    "about": "New Dunder Mifflin CEO Robert California leaves a piece of paper with a line down the middle that has names of the Scranton staff on either side of it, leading everyone to try and figure out what it means.",
+    "rating": 8.1,
+    "votes": 2366,
+    "duration": 23,
+    "date": " 22 September 2011",
+    "moods": [
+      "workplace"
+    ],
+    "mood_sources": {
+      "workplace": "default"
+    }
+  },
+  {
+    "id": 142,
+    "season": 8,
+    "episode": 2,
+    "title": "The Incentive",
+    "about": "Under pressure from Robert to increase branch sales, Andy offers an incentive program to the sales staff, which backfires on him when he offers a very personal grand prize.",
+    "rating": 8.1,
+    "votes": 2200,
+    "duration": 23,
+    "date": " 29 September 2011",
+    "moods": [
+      "chaos",
+      "workplace"
+    ],
+    "mood_sources": {
+      "chaos": "keyword",
+      "workplace": "keyword"
+    }
+  },
+  {
+    "id": 143,
+    "season": 8,
+    "episode": 3,
+    "title": "Lotto",
+    "about": "After the entire warehouse staff wins the lottery and quits their job, Darryl becomes depressed and demands to be fired. Meanwhile, the office staff is forced to load the truck for their orders themselves.",
+    "rating": 7.3,
+    "votes": 2098,
+    "duration": 23,
+    "date": " 6 October 2011",
+    "moods": [
+      "chaos",
+      "workplace"
+    ],
+    "mood_sources": {
+      "chaos": "keyword",
+      "workplace": "keyword"
+    }
+  },
+  {
+    "id": 144,
+    "season": 8,
+    "episode": 4,
+    "title": "Garden Party",
+    "about": "Andy claims to be throwing a garden party at Dwight's farm to impress Robert California, but he's really doing it to win the approval of his parents, who appear to favor his younger brother.",
+    "rating": 8.1,
+    "votes": 2266,
+    "duration": 23,
+    "date": " 13 October 2011",
+    "moods": [
+      "comfort",
+      "workplace"
+    ],
+    "mood_sources": {
+      "comfort": "keyword",
+      "workplace": "keyword"
+    }
+  },
+  {
+    "id": 145,
+    "season": 8,
+    "episode": 5,
+    "title": "Spooked",
+    "about": "Erin is worried that she is about to get fired after she organizes a disastrous office Halloween party for Robert and his son. Meanwhile, Robert probes the minds of the employees to come up with the perfect spooky story.",
+    "rating": 7.5,
+    "votes": 2024,
+    "duration": 23,
+    "date": " 27 October 2011",
+    "moods": [
+      "chaos",
+      "comfort",
+      "workplace"
+    ],
+    "mood_sources": {
+      "chaos": "keyword",
+      "comfort": "keyword",
+      "workplace": "keyword"
+    }
+  },
+  {
+    "id": 146,
+    "season": 8,
+    "episode": 6,
+    "title": "Doomsday",
+    "about": "Dwight installs a \"Doomsday Device\" on the office computers that could get everyone fired if they make too many mistakes, while Gabe tries to hit on one of Darryl's warehouse employees.",
+    "rating": 7.7,
+    "votes": 1948,
+    "duration": 23,
+    "date": " 3 November 2011",
+    "moods": [
+      "chaos",
+      "workplace"
+    ],
+    "mood_sources": {
+      "chaos": "keyword",
+      "workplace": "keyword"
+    }
+  },
+  {
+    "id": 147,
+    "season": 8,
+    "episode": 7,
+    "title": "Pam's Replacement",
+    "about": "A pregnant and insecure Pam tries to prove that Jim is attracted to her temp replacement, and Robert and his musician friends take over a jam session with Andy, Kevin, and Darryl.",
+    "rating": 7.7,
+    "votes": 2077,
+    "duration": 23,
+    "date": " 10 November 2011",
+    "moods": [
+      "comfort"
+    ],
+    "mood_sources": {
+      "comfort": "keyword"
+    }
+  },
+  {
+    "id": 148,
+    "season": 8,
+    "episode": 8,
+    "title": "Gettysburg",
+    "about": "Andy decides to motivate and inspire everyone by taking them on a field trip to Gettysburg. Some people in the office stay behind and Robert California asks them to come up with Dunder Mifflin/Sabre's next big idea.",
+    "rating": 6.9,
+    "votes": 2089,
+    "duration": 23,
+    "date": " 17 November 2011",
+    "moods": [
+      "workplace"
+    ],
+    "mood_sources": {
+      "workplace": "keyword"
+    }
+  },
+  {
+    "id": 149,
+    "season": 8,
+    "episode": 9,
+    "title": "Mrs. California",
+    "about": "Robert brings his wife to the office so that she can find a job, but he gives Andy conflicting messages about whether to hire her. Meanwhile, Dwight opens a gym in the building and tries to persuade Darryl to join.",
+    "rating": 7.7,
+    "votes": 2050,
+    "duration": 23,
+    "date": " 1 December 2011",
+    "moods": [
+      "workplace"
+    ],
+    "mood_sources": {
+      "workplace": "keyword"
+    }
+  },
+  {
+    "id": 150,
+    "season": 8,
+    "episode": 10,
+    "title": "Christmas Wishes",
+    "about": "Andy tries to make this year's Christmas the best ever by granting each person's holiday wishes. Meanwhile, Robert California tries to drown his sorrows at the office party.",
+    "rating": 7.9,
+    "votes": 2020,
+    "duration": 23,
+    "date": " 8 December 2011",
+    "moods": [
+      "christmas",
+      "comfort",
+      "workplace"
+    ],
+    "mood_sources": {
+      "christmas": "keyword",
+      "comfort": "keyword",
+      "workplace": "keyword"
+    }
+  },
+  {
+    "id": 151,
+    "season": 8,
+    "episode": 11,
+    "title": "Trivia",
+    "about": "Andy hopes to make up for a sales deficiency by entering and winning a bar trivia competition, while Dwight flies to corporate headquarters in Florida to demand a management interview with Robert.",
+    "rating": 7.9,
+    "votes": 1980,
+    "duration": 23,
+    "date": " 12 January 2012",
+    "moods": [
+      "workplace"
+    ],
+    "mood_sources": {
+      "workplace": "keyword"
+    }
+  },
+  {
+    "id": 152,
+    "season": 8,
+    "episode": 12,
+    "title": "Pool Party",
+    "about": "Robert throws a party for the Dunder Mifflin staff at his house before he sells it because of his divorce. At the party, Erin and Dwight agree to flirt with each other to make Andy jealous, and Jim tries in vain to duck out early.",
+    "rating": 8.0,
+    "votes": 2139,
+    "duration": 23,
+    "date": " 19 January 2012",
+    "moods": [
+      "comfort",
+      "workplace"
+    ],
+    "mood_sources": {
+      "comfort": "keyword",
+      "workplace": "keyword"
+    }
+  },
+  {
+    "id": 153,
+    "season": 8,
+    "episode": 13,
+    "title": "Jury Duty",
+    "about": "Jim gets caught in a lie about his week of \"jury duty,\" and new questions emerge when Angela gives birth to a \"premature\" baby.",
+    "rating": 7.4,
+    "votes": 1937,
+    "duration": 23,
+    "date": " 2 February 2012",
+    "moods": [
+      "workplace"
+    ],
+    "mood_sources": {
+      "workplace": "default"
+    }
+  },
+  {
+    "id": 154,
+    "season": 8,
+    "episode": 14,
+    "title": "Special Project",
+    "about": "Andy puts Dwight in charge of a special project in Tallahassee, but Dwight doesn't like the team Andy's assembled for him. Meanwhile, Darryl tries to figure out the meaning of Val's Valentine's gift.",
+    "rating": 7.7,
+    "votes": 1891,
+    "duration": 23,
+    "date": " 9 February 2012",
+    "moods": [
+      "romantic"
+    ],
+    "mood_sources": {
+      "romantic": "keyword"
+    }
+  },
+  {
+    "id": 155,
+    "season": 8,
+    "episode": 15,
+    "title": "Tallahassee",
+    "about": "Dwight refuses to let appendicitis get in the way of leading his new team in Tallahassee, while Andy decides to step in for Erin as secretary in the office.",
+    "rating": 7.8,
+    "votes": 1994,
+    "duration": 23,
+    "date": " 16 February 2012",
+    "moods": [
+      "workplace"
+    ],
+    "mood_sources": {
+      "workplace": "keyword"
+    }
+  },
+  {
+    "id": 156,
+    "season": 8,
+    "episode": 16,
+    "title": "After Hours",
+    "about": "In Tallahassee, Dwight and Todd Packer try to romance Nellie to get the VP position, while Jim wonders if a colleague is trying to hit on him. Back in Scranton, Val's boyfriend shows up with a message for Darryl.",
+    "rating": 8.1,
+    "votes": 2068,
+    "duration": 23,
+    "date": " 23 February 2012",
+    "moods": [
+      "comfort",
+      "romantic"
+    ],
+    "mood_sources": {
+      "comfort": "keyword",
+      "romantic": "keyword"
+    }
+  },
+  {
+    "id": 157,
+    "season": 8,
+    "episode": 17,
+    "title": "Test the Store",
+    "about": "Dwight and his team get ready for the grand opening of the Sabre Store, while Andy makes Toby teach self-defense to the Scranton branch employees after he is beat up in the parking lot by a girl.",
+    "rating": 7.8,
+    "votes": 1958,
+    "duration": 23,
+    "date": " 1 March 2012",
+    "moods": [
+      "workplace"
+    ],
+    "mood_sources": {
+      "workplace": "keyword"
+    }
+  },
+  {
+    "id": 158,
+    "season": 8,
+    "episode": 18,
+    "title": "Last Day in Florida",
+    "about": "Jim tries to warn Dwight that he's going to be fired after Robert rejects the Sabre Store idea, but he refuses to listen. Meanwhile, Darryl and Toby try to sell cookies to Kevin, and Erin tells Andy she's not coming back from Florida.",
+    "rating": 7.8,
+    "votes": 1903,
+    "duration": 23,
+    "date": " 8 March 2012",
+    "moods": [
+      "chaos"
+    ],
+    "mood_sources": {
+      "chaos": "keyword"
+    }
+  },
+  {
+    "id": 159,
+    "season": 8,
+    "episode": 19,
+    "title": "Get the Girl",
+    "about": "Andy goes to Tallahassee to tell Erin that he loves her and needs her to return to Scranton. Meanwhile, Nellie shows up in Scranton and tries to claim Andy's manager position by offering everyone raises.",
+    "rating": 6.6,
+    "votes": 2203,
+    "duration": 23,
+    "date": " 15 March 2012",
+    "moods": [
+      "romantic",
+      "workplace"
+    ],
+    "mood_sources": {
+      "romantic": "keyword",
+      "workplace": "keyword"
+    }
+  },
+  {
+    "id": 160,
+    "season": 8,
+    "episode": 20,
+    "title": "Welcome Party",
+    "about": "Andy tries to break up with his girlfriend after going to Florida to declare his love for Erin, and the office employees are forced against their will to throw a party for the hated Nellie.",
+    "rating": 7.1,
+    "votes": 1972,
+    "duration": 23,
+    "date": " 12 April 2012",
+    "moods": [
+      "comfort",
+      "romantic",
+      "workplace"
+    ],
+    "mood_sources": {
+      "comfort": "keyword",
+      "romantic": "keyword",
+      "workplace": "keyword"
+    }
+  },
+  {
+    "id": 161,
+    "season": 8,
+    "episode": 21,
+    "title": "Angry Andy",
+    "about": "Andy and Erin return to Dunder Mifflin, only to discover that Nellie has taken his job and office and refuses to give them up. Meanwhile, Ryan becomes jealous after Pam tries to play matchmaker for Kelly.",
+    "rating": 7.0,
+    "votes": 2107,
+    "duration": 23,
+    "date": " 19 April 2012",
+    "moods": [
+      "workplace"
+    ],
+    "mood_sources": {
+      "workplace": "keyword"
+    }
+  },
+  {
+    "id": 162,
+    "season": 8,
+    "episode": 22,
+    "title": "Fundraiser",
+    "about": "Andy confronts Robert for the first time after losing the manager position and quitting his job at a fund raiser sponsored by Angela's husband.",
+    "rating": 7.0,
+    "votes": 1902,
+    "duration": 23,
+    "date": " 26 April 2012",
+    "moods": [
+      "comfort",
+      "workplace"
+    ],
+    "mood_sources": {
+      "comfort": "keyword",
+      "workplace": "keyword"
+    }
+  },
+  {
+    "id": 163,
+    "season": 8,
+    "episode": 23,
+    "title": "Turf War",
+    "about": "Dwight and Jim fight with the Syracuse over a client after Robert shuts down the Binghamton branch, and Andy sees an opportunity for revenge. Meanwhile Robert tries to figure out the contents of a drunken voicemail to Nellie.",
+    "rating": 7.6,
+    "votes": 1832,
+    "duration": 23,
+    "date": " 3 May 2012",
+    "moods": [
+      "chaos",
+      "workplace"
+    ],
+    "mood_sources": {
+      "chaos": "keyword",
+      "workplace": "keyword"
+    }
+  },
+  {
+    "id": 164,
+    "season": 8,
+    "episode": 24,
+    "title": "Free Family Portrait Studio",
+    "about": "With former CEO David Wallace's help, Andy launches a plan to get revenge on the Scranton branch. Meanwhile, Dwight launches his own plan to find out if he's the father of Angela's baby.",
+    "rating": 7.7,
+    "votes": 1918,
+    "duration": 23,
+    "date": " 10 May 2012",
+    "moods": [
+      "wholesome",
+      "workplace"
+    ],
+    "mood_sources": {
+      "wholesome": "keyword",
+      "workplace": "keyword"
+    }
+  },
+  {
+    "id": 165,
+    "season": 9,
+    "episode": 1,
+    "title": "New Guys",
+    "about": "Dwight and Jim are intimidated by the office's newest additions, who are considered younger versions of themselves. Meanwhile, Andy tries to make Nellie's life miserable, and Angela tries to get rid of one of her cats.",
+    "rating": 7.6,
+    "votes": 2074,
+    "duration": 23,
+    "date": " 20 September 2012",
+    "moods": [
+      "romantic",
+      "workplace"
+    ],
+    "mood_sources": {
+      "romantic": "keyword",
+      "workplace": "keyword"
+    }
+  },
+  {
+    "id": 166,
+    "season": 9,
+    "episode": 2,
+    "title": "Roy's Wedding",
+    "about": "After Roy's wedding, Jim and Pam wonder if they still have any secrets they're hiding from each other. Meanwhile, Clark tricks Erin into a \"news audition,\" and Dwight challenges Nellie's new charity initiative.",
+    "rating": 7.1,
+    "votes": 1963,
+    "duration": 23,
+    "date": " 27 September 2012",
+    "moods": [
+      "romantic"
+    ],
+    "mood_sources": {
+      "romantic": "keyword"
+    }
+  },
+  {
+    "id": 167,
+    "season": 9,
+    "episode": 3,
+    "title": "Andy's Ancestry",
+    "about": "Nellie plays a trick on Andy after researching his ancestry, Dwight teaches Erin a new language, and Pam tries to teach Nellie how to drive.",
+    "rating": 7.4,
+    "votes": 1938,
+    "duration": 23,
+    "date": " 4 October 2012",
+    "moods": [
+      "workplace"
+    ],
+    "mood_sources": {
+      "workplace": "default"
+    }
+  },
+  {
+    "id": 168,
+    "season": 9,
+    "episode": 4,
+    "title": "Work Bus",
+    "about": "When Jim convinces Dwight that the building is unsafe, Dwight rents a bus and sets up the office inside. Nellie asks for Andy's help in adopting a baby. Meanwhile, Jim tries to make Pam happy with some pie.",
+    "rating": 7.8,
+    "votes": 2059,
+    "duration": 22,
+    "date": " 18 October 2012",
+    "moods": [
+      "wholesome",
+      "workplace"
+    ],
+    "mood_sources": {
+      "wholesome": "keyword",
+      "workplace": "keyword"
+    }
+  },
+  {
+    "id": 169,
+    "season": 9,
+    "episode": 5,
+    "title": "Here Comes Treble",
+    "about": "On Halloween, the Cornell a Capella group pays a visit to Andy, Dwight discovers that Nellie takes anxiety pills, and Pam disapproves of Jim's business decision.",
+    "rating": 7.0,
+    "votes": 2021,
+    "duration": 22,
+    "date": " 25 October 2012",
+    "moods": [
+      "workplace"
+    ],
+    "mood_sources": {
+      "workplace": "default"
+    }
+  },
+  {
+    "id": 170,
+    "season": 9,
+    "episode": 6,
+    "title": "The Boat",
+    "about": "Andy has one last chance to captain the family boat before he sells it, Jim, Pam, and Nellie prank Dwight with a radio interview, and Kevin finds out about Oscar's affair with Angela's husband.",
+    "rating": 7.7,
+    "votes": 1955,
+    "duration": 22,
+    "date": " 8 November 2012",
+    "moods": [
+      "comfort"
+    ],
+    "mood_sources": {
+      "comfort": "keyword"
+    }
+  },
+  {
+    "id": 171,
+    "season": 9,
+    "episode": 7,
+    "title": "The Whale",
+    "about": "The office trains Dwight to sell to a female client without being offensive, only to discover that the client is Jan Levinson. Angela and Oscar both think the senator is cheating on them, ...\n                    See full summaryÃƒâ€šÃ‚Â Ãƒâ€šÃ‚Â»",
+    "rating": 7.6,
+    "votes": 1872,
+    "duration": 22,
+    "date": " 15 November 2012",
+    "moods": [
+      "workplace"
+    ],
+    "mood_sources": {
+      "workplace": "keyword"
+    }
+  },
+  {
+    "id": 172,
+    "season": 9,
+    "episode": 8,
+    "title": "The Target",
+    "about": "Angela orders a hit on Oscar for cheating with her husband, the office makes a tower with their customer complaint cards, Jim wines and dines Stanley and Phyllis in exchange for a favor, and Pam begins her mural.",
+    "rating": 7.8,
+    "votes": 1928,
+    "duration": 22,
+    "date": " 29 November 2012",
+    "moods": [
+      "workplace"
+    ],
+    "mood_sources": {
+      "workplace": "keyword"
+    }
+  },
+  {
+    "id": 173,
+    "season": 9,
+    "episode": 9,
+    "title": "Dwight Christmas",
+    "about": "Dwight puts together a Pennsylvania Dutch-themed office Christmas party, but he ends it abruptly because Jim has to leave for his other job. Meanwhile, Erin seeks comfort from a co-worker after a disappointing text from Andy.",
+    "rating": 8.4,
+    "votes": 2204,
+    "duration": 22,
+    "date": " 6 December 2012",
+    "moods": [
+      "christmas",
+      "comfort",
+      "romantic",
+      "wholesome",
+      "workplace"
+    ],
+    "mood_sources": {
+      "christmas": "keyword",
+      "comfort": "keyword",
+      "romantic": "keyword",
+      "wholesome": "keyword",
+      "workplace": "keyword"
+    }
+  },
+  {
+    "id": 174,
+    "season": 9,
+    "episode": 10,
+    "title": "Lice",
+    "about": "Pam causes a lice outbreak but lets Meredith take the blame, Jim has a business meeting with Dr. J, and some coworkers try to get Darryl and Val back together.",
+    "rating": 7.6,
+    "votes": 1952,
+    "duration": 22,
+    "date": " 10 January 2013",
+    "moods": [
+      "comfort",
+      "wholesome",
+      "workplace"
+    ],
+    "mood_sources": {
+      "comfort": "keyword",
+      "wholesome": "keyword",
+      "workplace": "keyword"
+    }
+  },
+  {
+    "id": 175,
+    "season": 9,
+    "episode": 11,
+    "title": "Suit Warehouse",
+    "about": "Dwight and Clark pose as father and son to get an account, Darryl goes for an interview with Jim's new business, and everybody in the office goes crazy over a new espresso machine.",
+    "rating": 7.8,
+    "votes": 1920,
+    "duration": 22,
+    "date": " 17 January 2013",
+    "moods": [
+      "workplace"
+    ],
+    "mood_sources": {
+      "workplace": "keyword"
+    }
+  },
+  {
+    "id": 176,
+    "season": 9,
+    "episode": 12,
+    "title": "Customer Loyalty",
+    "about": "Dwight tries to keep Daryl from leaving Dunder Mifflin, Jim misses his daughter's recital because of an important business meeting, and Nellie is worried that Erin will dump Andy for Pete.",
+    "rating": 7.9,
+    "votes": 1984,
+    "duration": 22,
+    "date": " 24 January 2013",
+    "moods": [
+      "workplace"
+    ],
+    "mood_sources": {
+      "workplace": "keyword"
+    }
+  },
+  {
+    "id": 177,
+    "season": 9,
+    "episode": 13,
+    "title": "Junior Salesman",
+    "about": "Dwight gets to hire a new salesman to replace Jim when he is at his other job. But will he promote Clark or go with one of his unqualified friends instead?",
+    "rating": 7.6,
+    "votes": 1866,
+    "duration": 22,
+    "date": " 31 January 2013",
+    "moods": [
+      "comfort",
+      "workplace"
+    ],
+    "mood_sources": {
+      "comfort": "keyword",
+      "workplace": "keyword"
+    }
+  },
+  {
+    "id": 178,
+    "season": 9,
+    "episode": 14,
+    "title": "Vandalism",
+    "about": "Pam tries to find out who vandalized her mural, Darryl finds out that Jim is a slob, and Oscar and Kevin go to Angela and The Senator's child's first birthday party.",
+    "rating": 7.5,
+    "votes": 1866,
+    "duration": 22,
+    "date": " 31 January 2013",
+    "moods": [
+      "comfort"
+    ],
+    "mood_sources": {
+      "comfort": "keyword"
+    }
+  },
+  {
+    "id": 179,
+    "season": 9,
+    "episode": 15,
+    "title": "Couples Discount",
+    "about": "Andy returns after three months to an angry office and an even angrier girlfriend, and Jim's Valentines Day with Pam does not go as planned.",
+    "rating": 7.3,
+    "votes": 1888,
+    "duration": 22,
+    "date": " 7 February 2013",
+    "moods": [
+      "comfort",
+      "romantic",
+      "workplace"
+    ],
+    "mood_sources": {
+      "comfort": "keyword",
+      "romantic": "keyword",
+      "workplace": "keyword"
+    }
+  },
+  {
+    "id": 180,
+    "season": 9,
+    "episode": 16,
+    "title": "Moving On",
+    "about": "Andy finds out that Erin dumped him for Pete, Dwight gets Angela's help taking care of his aunt, and Pam interviews with a real estate firm whose boss is a carbon-copy of Michael Scott.",
+    "rating": 8.1,
+    "votes": 2089,
+    "duration": 42,
+    "date": " 14 February 2013",
+    "moods": [
+      "wholesome",
+      "workplace"
+    ],
+    "mood_sources": {
+      "wholesome": "keyword",
+      "workplace": "keyword"
+    }
+  },
+  {
+    "id": 181,
+    "season": 9,
+    "episode": 17,
+    "title": "The Farm",
+    "about": "Show follows Dwight Schrute a beet farmer running a bed and breakfast inn.",
+    "rating": 7.5,
+    "votes": 2189,
+    "duration": 22,
+    "date": " 14 March 2013",
+    "moods": [
+      "workplace"
+    ],
+    "mood_sources": {
+      "workplace": "keyword"
+    }
+  },
+  {
+    "id": 182,
+    "season": 9,
+    "episode": 18,
+    "title": "Promos",
+    "about": "The release of the documentary promos creates tension for the Dunder Mifflin employees, Dwight considers a business venture with his girlfriend's family, and Jim and Darryl have an awkward business meeting with baseball player Ryan Howard.",
+    "rating": 8.0,
+    "votes": 1924,
+    "duration": 22,
+    "date": " 4 April 2013",
+    "moods": [
+      "comfort",
+      "cringe",
+      "romantic",
+      "workplace"
+    ],
+    "mood_sources": {
+      "comfort": "keyword",
+      "cringe": "keyword",
+      "romantic": "keyword",
+      "workplace": "keyword"
+    }
+  },
+  {
+    "id": 183,
+    "season": 9,
+    "episode": 19,
+    "title": "Stairmageddon",
+    "about": "Dwight shoots Stanley with a bull tranquilizer after he refuses to go on a sales call, Jim and Pam head to marriage counseling, The Senator comes out of the closet, and Andy tries to find a talent agent.",
+    "rating": 8.0,
+    "votes": 1985,
+    "duration": 22,
+    "date": " 11 April 2013",
+    "moods": [
+      "romantic",
+      "workplace"
+    ],
+    "mood_sources": {
+      "romantic": "keyword",
+      "workplace": "keyword"
+    }
+  },
+  {
+    "id": 184,
+    "season": 9,
+    "episode": 20,
+    "title": "Paper Airplane",
+    "about": "The employees hold a paper airplane competition, Andy gets an acting role in a workplace safety video, and Jim and Pam's marriage tensions continue to build.",
+    "rating": 8.0,
+    "votes": 2007,
+    "duration": 22,
+    "date": " 25 April 2013",
+    "moods": [
+      "romantic",
+      "workplace"
+    ],
+    "mood_sources": {
+      "romantic": "keyword",
+      "workplace": "keyword"
+    }
+  },
+  {
+    "id": 185,
+    "season": 9,
+    "episode": 21,
+    "title": "Livin' the Dream",
+    "about": "Dwight becomes regional manager after Andy quits his job, Jim dedicates more time to his Dunder Mifflin job to save his marriage, and Angela has problems with her new living arrangements after her breakup with The Senator.",
+    "rating": 9.0,
+    "votes": 2831,
+    "duration": 42,
+    "date": " 2 May 2013",
+    "moods": [
+      "romantic",
+      "workplace"
+    ],
+    "mood_sources": {
+      "romantic": "keyword",
+      "workplace": "keyword"
+    }
+  },
+  {
+    "id": 186,
+    "season": 9,
+    "episode": 22,
+    "title": "A.A.R.M.",
+    "about": "Dwight prepares for a marriage proposal and hires an assistant for his assistant, Andy auditions for a singing program, Darryl tries to leave his job without a fuss, and Pam has second thoughts about Jim staying in Scranton.",
+    "rating": 9.5,
+    "votes": 3914,
+    "duration": 43,
+    "date": " 9 May 2013",
+    "moods": [
+      "romantic"
+    ],
+    "mood_sources": {
+      "romantic": "keyword"
+    }
+  },
+  {
+    "id": 187,
+    "season": 9,
+    "episode": 23,
+    "title": "Finale",
+    "about": "One year later, Dunder Mifflin employees past and present reunite for a panel discussion about the documentary and to attend Dwight and Angela's wedding.",
+    "rating": 9.8,
+    "votes": 10515,
+    "duration": 51,
+    "date": " 16 May 2013",
+    "moods": [
+      "romantic",
+      "workplace"
+    ],
+    "mood_sources": {
+      "romantic": "keyword",
+      "workplace": "keyword"
+    }
+  }
+]
