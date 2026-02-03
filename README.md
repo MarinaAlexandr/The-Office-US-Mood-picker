@@ -27,7 +27,7 @@ This app is designed to make that choice quick, intuitive, and enjoyable.
     - Avoid high-cringe episodes.
     - Require all moods to match (an AND logic).
     - Choose how many recommendations to display.
-- **"Choose for me”** random episode picker: If you can’t decide, let the app randomly select an episode for you.
+- **"Choose for me” random episode picker**: If you can’t decide, let the app randomly select an episode for you.
   
 ---
 
