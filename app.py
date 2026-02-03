@@ -26,10 +26,15 @@ st.markdown(
     unsafe_allow_html=True
 )
 
-# --- Títol i descripció ---
+# Title and description 
 
 st.title("The Office (US) - Mood Picker")
-st.write("Select a vibe✨  and get episode recommendations.")
+st.subheader("Select a vibe✨, adjust your preferences, and let the app do the rest.")
+
+st.markdown(
+    "The Office is <em>always</em> a good pick. Not sure which episode to watch thougth? This app helps you find the perfect one.",
+    unsafe_allow_html=True
+)
 
 # --- 1) Cargar dataset ---
 @st.cache_data
@@ -64,7 +69,7 @@ def mood_label(m: str) -> str:
 
 # compta quants episodis tenen cada mood
 selected_moods = st.multiselect(
-    "Moods:",
+    "What vibe are you looking for?",
     ALL_MOODS,
     default=["comfort"] if "comfort" in ALL_MOODS else (ALL_MOODS[:1] if ALL_MOODS else []),
     format_func=mood_label
