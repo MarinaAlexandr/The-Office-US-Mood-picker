@@ -92,6 +92,20 @@ Some features that can be improved:
 
 ---
 
+## 🎥 Demo video
+
+https://github.com/user-attachments/assets/a825d100-03ac-4d5d-a98b-b67beffbfa13
+
+---
+
+## 📲 Access to app
+
+**Link**: https://the-office-us-mood-picker.streamlit.app/
+
+---
+
+
+
 
 
 
