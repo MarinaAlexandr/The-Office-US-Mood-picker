@@ -70,11 +70,11 @@ Overall, the system is designed to remain lightweight, transparent, and easy to 
 
 ## 💡 What did I learn?
 
-- **Designing explainable recommendation systems**: How to balance simple, rule-based logic with enriched data, prioritizing transparency and user trust over complex models.
+- **Designing explainable recommendation systems**: How to balance simple, rule-based logic with enriched data, prioritizing transparency and user-experience preferences over complex models.
 
-- **Separating offline data processing from runtime logic**: The importance of keeping data enrichment and feature extraction offline, while maintaining a lightweight and deterministic application at runtime.
+- **Separating offline data processing from runtime logic**: Learning when to move expensive computations (such as text analysis and feature extraction) outside the user-facing app, resulting in a faster, simpler, and more predictable user experience.
 
-- **Building and deploying user-facing data apps**: Hands-on experience designing an interactive UI, managing application state, and deploying a Streamlit app as a complete, end-to-end product.
+- **Building and deploying a usable web app**: Learning how to design a simple interface, handle user interactions, and make a data-driven project accessible to others through a deployed Streamlit app.
 
 ---
 
