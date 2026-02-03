@@ -50,7 +50,7 @@ The result of this step is a static JSON file containing enriched episode data, 
 ### Recommendation logic
 
 When a user interacts with the app:
-- One or more moods are selected
+- One or more moods are selected.
 - Optional preferences are applied (low-cringe filtering, AND/OR logic, number of results).
 - Episodes are filtered based on mood overlap.
 - Each candidate episode is scored using a **rule-based formula** that takes into account:
