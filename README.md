@@ -86,7 +86,7 @@ Some features that can be improved:
 
 - **Richer episode metadata and visuals**: Add episode thumbnails, short quotes, or key scenes to improve visual engagement and browsing experience.
 
-- **Mood weighting and intensity**: Allow users to indicate how strongly they want a specific mood, enabling more nuanced scoring and recommendations.
+- **Mood weighting and intensity**: Allow users to indicate how strongly they want a specific mood, enabling more accurate scoring and recommendations.
 
 - **Extended recommendation logic**: Combine mood-based rules with episode similarity (e.g. TF-IDF–based episode-to-episode similarity) to suggest follow-up episodes once a recommendation is selected.
 
